@@ -189,7 +189,7 @@ old_judge_id,full_name,first_name,last_name,last_name_latin,last_name_label,last
 502,Savvas Papasavvas,Savvas,Papasavvas,Papasavvas,Papasavvas,Papasavvas,16,Cyprus,CY,1969,2,Male,0,0,1,0,0,1,Current GC judge,0,2004-05-01,present,,,2004-05-01,present,,,,
 503,Constantinos Lycourgos,Constantinos,Lycourgos,Lycourgos,Lycourgos,Lycourgos,16,Cyprus,CY,1964,2,Male,0,1,0,0,0,1,Current CJ judge,0,2014-10-07,present,2014-10-07,present,,,,,,
 504,Anna Marcoulli,Anna,Marcoulli,Marcoulli,Marcoulli,Marcoulli,16,Cyprus,CY,1978,1,Female,1,0,1,0,0,1,Current GC judge,0,2016-04-13,present,,,2016-04-13,present,,,,
-,Nicholas Emiliou,Nicholas,Emiliou,Emiliou,Emiliou,Emiliou,16,Cyprus,CY,1963,2,Male,0,0,0,0,1,1,Current AG,0,2021-10-07,present,2021-10-07,present,,,,,,
+,Nicholas Emiliou,Nicholas,Emiliou,Emiliou,Emiliou,Emiliou,16,Cyprus,CY,1963,2,Male,0,0,0,0,1,1,Current AG,0,2021-10-07,present,,,,,,,2021-10-07,present
 601,Jiří Malenovský,Jiří,Malenovský,Malenovsky,Malenovský,Malenovsky,17,Czech Republic,CZ,1950,2,Male,0,1,0,0,0,1,Former CJ judge,0,2004-05-01,2020-10-06,2004-05-01,2020-10-06,,,,,,
 602,Irena Pelikánová,Irena,Pelikánová,Pelikanova,Pelikánová,Pelikanova,17,Czech Republic,CZ,1949,1,Female,1,0,1,0,0,1,Former GC judge,0,2004-05-01,2019-09-26,,,2004-05-01,2019-09-26,,,,
 604,Michal Bobek,Michal,Bobek,Bobek,Bobek,Bobek,17,Czech Republic,CZ,1977,2,Male,0,0,0,0,1,1,Former AG,0,2015-10-07,2021-10-07,,,,,,,2015-10-07,2021-10-07
@@ -209,7 +209,7 @@ old_judge_id,full_name,first_name,last_name,last_name_latin,last_name_label,last
 1601,Egils Levits,Egils,Levits,Levits,Levits,Levits,20,Latvia,LV,1955,2,Male,0,1,0,0,0,1,Former CJ judge,0,2004-05-01,2019-06-17,2004-05-01,2019-06-17,,,,,,
 1603,Inga Reine,Inga,Reine,Reine,Reine,Reine,20,Latvia,LV,1975,1,Female,1,0,1,0,0,1,Current GC judge,0,2016-06-08,present,,,2016-06-08,present,,,,
 ,Pēteris Zilgalvis,Pēteris,Zilgalvis,Zilgalvis,Zilgalvis,Zilgalvis,20,Latvia,LV,1964,2,Male,0,0,1,0,0,1,Current GC judge,0,2021-09-27,present,,,2021-09-27,present,,,,
-,Laila Medina,Laila,Medina,Medina,Medina,Medina,20,Latvia,LV,1971,1,Female,1,0,0,0,1,1,Current AG,0,2021-10-07,present,2021-10-07,present,,,,,,
+,Laila Medina,Laila,Medina,Medina,Medina,Medina,20,Latvia,LV,1971,1,Female,1,0,0,0,1,1,Current AG,0,2021-10-07,present,,,,,,,2021-10-07,present
 ,Ineta Ziemele,Ineta,Ziemele,Ziemele,Ziemele,Ziemele,20,Latvia,LV,1970,1,Female,1,1,0,0,0,1,Current CJ judge,0,2021-10-07,present,2021-10-07,present,,,,,,
 1701,Pranas Kūris,Pranas,Kūris,Kuris,Kūris,Kuris,21,Lithuania,LT,1938,2,Male,0,1,0,0,0,1,Former CJ judge,0,2004-05-01,2012-10-06,2004-05-01,2012-10-06,,,,,,
 1702,Vilenas Vadapalas,Vilenas,Vadapalas,Vadapalas,Vadapalas,Vadapalas,21,Lithuania,LT,1954,2,Male,0,0,1,0,0,1,Former GC judge,0,2004-05-01,2013-08-31,,,2004-05-01,2013-08-31,,,,
@@ -252,4 +252,4 @@ old_judge_id,full_name,first_name,last_name,last_name_latin,last_name_label,last
 401,Siniša Rodin,Siniša,Rodin,Rodin,Rodin,Rodin,28,Croatia,HR,1965,2,Male,0,1,0,0,0,1,Current CJ judge,0,2013-07-01,present,2013-07-01,present,,,,,,
 402,Vesna Tomljenović,Vesna,Tomljenović,Tomljenovic,Tomljenović,Tomljenovic,28,Croatia,HR,1956,1,Female,1,0,1,0,0,1,Current GC judge,0,2013-07-01,present,,,2013-07-01,present,,,,
 403,Tamara Perišin,Tamara,Perišin,Perisin,Perišin,Perisin,28,Croatia,HR,1979,1,Female,1,0,1,0,0,1,Current GC judge,0,2019-09-26,present,,,2019-09-26,present,,,,
-,Tamara Ćapeta,Tamara,Ćapeta,Capeta,Ćapeta,Capeta,28,Croatia,HR,1967,1,Female,1,0,0,0,1,1,Current AG,0,2021-10-07,present,2021-10-07,present,,,,,,
+,Tamara Ćapeta,Tamara,Ćapeta,Capeta,Ćapeta,Capeta,28,Croatia,HR,1967,1,Female,1,0,0,0,1,1,Current AG,0,2021-10-07,present,,,,,,,2021-10-07,present
