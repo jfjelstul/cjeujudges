@@ -6,3 +6,8 @@
 cjeujudges.Rproj
 _source
 _excluded
+*.aux
+*.log
+*.out
+*.gz
+*.toc
