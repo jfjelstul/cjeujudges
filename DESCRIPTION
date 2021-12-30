@@ -1,17 +1,17 @@
 Package: cjeujudges
 Type: Package
-Title: Data on CJEU judges
-Version: 0.1.0.9000
+Title: The CJEU Judge Database
+Version: 0.1.0
 Authors@R: person(given = "Joshua",
            family = "Fjelstul",
            role = c("aut", "cre"),
            email = "joshfjelstul@gmail.com",
            comment = c(ORCID = "0000-0002-9494-260X"))
-Description: This package includes data on CJEU judges.
+Description: This package includes data on judges at the Court of Justice of the European Union (CJEU), including information about the professional backgrounds of judges, hand-coded from their official biographies. This data is used in IUROPA's CJEU Database Platform: Decisions and Decision-Makers.
 URL: https://github.com/jfjelstul/cjeujudges
-Date: 2021-10-22
+Date: 2021-12-30
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
