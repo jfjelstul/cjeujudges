@@ -10,7 +10,7 @@ The `judge_backgrounds` includes data on professional backgrounds of all judges 
 
 ## Installation
 
-You can install the latest development version of the `eusa` package from GitHub:
+You can install the latest development version of the `cjeujudges` package from GitHub:
 
 ```r
 # install.packages("devtools")
@@ -19,7 +19,7 @@ devtools::install_github("jfjelstul/cjeujudges")
 
 ## Documentation
 
-The codebook for the database is included as a `tibble` in the `R` package: `cjeujudges::codebook`. The same information is also available in the `R` documentation for each dataset. For example, you can see the codebook for the `eusa::cases` dataset by running `?cjeujudges::cases`. You can also read the documentation on the [package website](https://jfjelstul.github.io/cjeujudges/).
+The codebook for the database is included as a `tibble` in the `R` package: `cjeujudges::codebook`. The same information is also available in the `R` documentation for each dataset. For example, you can see the codebook for the `cjeujudges::judges` dataset by running `?cjeujudges::judges`. You can also read the documentation on the [package website](https://jfjelstul.github.io/cjeujudges/).
 
 ## Citation
 
