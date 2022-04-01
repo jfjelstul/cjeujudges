@@ -1,6 +1,6 @@
 dataset_id,dataset,variable_id,variable,type,description
 1,judges,1,key_id,numeric,An ID number that uniquely identifies each observation. Indicates the default sort order for the dataset.
-1,judges,2,judge_id,string,"An ID number that uniquely identifies each judge in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. "
+1,judges,2,iuropa_judge_id,string,"An ID number that uniquely identifies each judge in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. "
 1,judges,3,full_name,string,The full name of the judge. 
 1,judges,4,first_name,string,The first name of the judge. 
 1,judges,5,last_name,string,The last name of the judge.
@@ -33,7 +33,7 @@ dataset_id,dataset,variable_id,variable,type,description
 1,judges,32,start_date_advocate_general,date,"The start date of the judge's tenure as an Advocate General at the Court of Justice, if applicable. Coded {NA} if not applicable. "
 1,judges,33,end_date_advocate_general,date,"The end date of the judge's tenure as an Advocate General at the Court of Justice, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
 2,judge_backgrounds,1,key_id,numeric,An ID number that uniquely identifies each observation. Indicates the default sort order for the dataset.
-2,judge_backgrounds,2,judge_id,string,"An ID number that uniquely identifies each judge in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. "
+2,judge_backgrounds,2,iuropa_judge_id,string,"An ID number that uniquely identifies each judge in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. "
 2,judge_backgrounds,3,item_id,string,"An ID number that uniquely identifies each biography item in the format {J:####:##}. This number is the judge ID followed by the number of the item, with a leading 0 if necessary."
 2,judge_backgrounds,4,first_name,string,The first name of the judge. 
 2,judge_backgrounds,5,last_name,string,The last name of the judge.
@@ -43,15 +43,15 @@ dataset_id,dataset,variable_id,variable,type,description
 2,judge_backgrounds,9,item_number,numeric,The number of the item in the judge's biography.
 2,judge_backgrounds,10,item_text,string,The text of the bibliography item.
 2,judge_backgrounds,11,type_education,dummy,A dummy variable indicating whether the item relates to the judge's education.
-2,judge_backgrounds,12,type_job,dummy ,A dummy variable indicating whether the item relates to the judge's prior professional experience.
+2,judge_backgrounds,12,type_job,dummy,A dummy variable indicating whether the item relates to the judge's prior professional experience.
 2,judge_backgrounds,13,type_other,dummy,"A dummy variable indicating whether the item relates to some other biographical information, such as membership in a professional organization or a professional accomplishment. "
-2,judge_backgrounds,14,job_judge,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a lawyer. Coded {0} if {type_job} is not coded {1}.
-2,judge_backgrounds,15,job_lawyer,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a judge. Coded {0} if {type_job} is not coded {1}.
-2,judge_backgrounds,16,job_civil_servant,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a civil servant. Coded {0} if {type_job} is not coded {1}.
-2,judge_backgrounds,17,job_academic,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as an academic. Coded {0} if {type_job} is not coded {1}.
-2,judge_backgrounds,18,job_politician,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a politician. Coded {0} if {type_job} is not coded {1}.
-2,judge_backgrounds,19,court_lower,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a judge at a lower court. Coded {0} if {job_judge} is not coded {1}.
-2,judge_backgrounds,20,court_high,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a judge at a high court. Coded {0} if {job_judge} is not coded {1}.
-2,judge_backgrounds,21,court_cjeu,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a judge or an Advocate General at the CJEU. Coded {0} if {job_judge} is not coded {1}.
-2,judge_backgrounds,22,court_international,dummy ,A dummy variable indicating whether the item says that the judge has prior experience as a judge at an international court (excluding the CJEU). Coded {0} if {job_judge} is not coded {1}.
-2,judge_backgrounds,23,common_law_university,dummy ,A dummy variable indicating whether the item mentions a common law university.
+2,judge_backgrounds,14,job_judge,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a lawyer. Coded {0} if {type_job} is not coded {1}.
+2,judge_backgrounds,15,job_lawyer,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a judge. Coded {0} if {type_job} is not coded {1}.
+2,judge_backgrounds,16,job_civil_servant,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a civil servant. Coded {0} if {type_job} is not coded {1}.
+2,judge_backgrounds,17,job_academic,dummy,A dummy variable indicating whether the item says that the judge has prior experience as an academic. Coded {0} if {type_job} is not coded {1}.
+2,judge_backgrounds,18,job_politician,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a politician. Coded {0} if {type_job} is not coded {1}.
+2,judge_backgrounds,19,court_lower,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a judge at a lower court. Coded {0} if {job_judge} is not coded {1}.
+2,judge_backgrounds,20,court_high,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a judge at a high court. Coded {0} if {job_judge} is not coded {1}.
+2,judge_backgrounds,21,court_cjeu,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a judge or an Advocate General at the CJEU. Coded {0} if {job_judge} is not coded {1}.
+2,judge_backgrounds,22,court_international,dummy,A dummy variable indicating whether the item says that the judge has prior experience as a judge at an international court (excluding the CJEU). Coded {0} if {job_judge} is not coded {1}.
+2,judge_backgrounds,23,common_law_university,dummy,A dummy variable indicating whether the item mentions a common law university.

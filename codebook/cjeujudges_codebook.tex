@@ -225,7 +225,7 @@ This dataset includes data on all judges and Advocate General at the Court of Ju
 
 \begin{description}[labelwidth=130pt, leftmargin=\dimexpr\labelwidth+\labelsep\relax, font=\normalfont, itemsep=10pt]
 \item[\code{key\_id}] \code{numeric}\hspace{5pt}An ID number that uniquely identifies each observation. Indicates the default sort order for the dataset.
-\item[\code{judge\_id}] \code{string}\hspace{5pt}An ID number that uniquely identifies each judge in the format \code{J:\#\#\#\#}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. 
+\item[\code{iuropa\_judge\_id}] \code{string}\hspace{5pt}An ID number that uniquely identifies each judge in the format \code{J:\#\#\#\#}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. 
 \item[\code{full\_name}] \code{string}\hspace{5pt}The full name of the judge. 
 \item[\code{first\_name}] \code{string}\hspace{5pt}The first name of the judge. 
 \item[\code{last\_name}] \code{string}\hspace{5pt}The last name of the judge.
@@ -272,7 +272,7 @@ This dataset includes data on professional backgrounds of all judges at the Cour
 
 \begin{description}[labelwidth=130pt, leftmargin=\dimexpr\labelwidth+\labelsep\relax, font=\normalfont, itemsep=10pt]
 \item[\code{key\_id}] \code{numeric}\hspace{5pt}An ID number that uniquely identifies each observation. Indicates the default sort order for the dataset.
-\item[\code{judge\_id}] \code{string}\hspace{5pt}An ID number that uniquely identifies each judge in the format \code{J:\#\#\#\#}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. 
+\item[\code{iuropa\_judge\_id}] \code{string}\hspace{5pt}An ID number that uniquely identifies each judge in the format \code{J:\#\#\#\#}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. 
 \item[\code{item\_id}] \code{string}\hspace{5pt}An ID number that uniquely identifies each biography item in the format \code{J:\#\#\#\#:\#\#}. This number is the judge ID followed by the number of the item, with a leading 0 if necessary.
 \item[\code{first\_name}] \code{string}\hspace{5pt}The first name of the judge. 
 \item[\code{last\_name}] \code{string}\hspace{5pt}The last name of the judge.
@@ -282,18 +282,18 @@ This dataset includes data on professional backgrounds of all judges at the Cour
 \item[\code{item\_number}] \code{numeric}\hspace{5pt}The number of the item in the judge's biography.
 \item[\code{item\_text}] \code{string}\hspace{5pt}The text of the bibliography item.
 \item[\code{type\_education}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item relates to the judge's education.
-\item[\code{type\_job}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item relates to the judge's prior professional experience.
+\item[\code{type\_job}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item relates to the judge's prior professional experience.
 \item[\code{type\_other}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item relates to some other biographical information, such as membership in a professional organization or a professional accomplishment. 
-\item[\code{job\_judge}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a lawyer. Coded \code{0} if \code{type\_job} is not coded \code{1}.
-\item[\code{job\_lawyer}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge. Coded \code{0} if \code{type\_job} is not coded \code{1}.
-\item[\code{job\_civil\_servant}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a civil servant. Coded \code{0} if \code{type\_job} is not coded \code{1}.
-\item[\code{job\_academic}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as an academic. Coded \code{0} if \code{type\_job} is not coded \code{1}.
-\item[\code{job\_politician}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a politician. Coded \code{0} if \code{type\_job} is not coded \code{1}.
-\item[\code{court\_lower}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge at a lower court. Coded \code{0} if \code{job\_judge} is not coded \code{1}.
-\item[\code{court\_high}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge at a high court. Coded \code{0} if \code{job\_judge} is not coded \code{1}.
-\item[\code{court\_cjeu}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge or an Advocate General at the CJEU. Coded \code{0} if \code{job\_judge} is not coded \code{1}.
-\item[\code{court\_international}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge at an international court (excluding the CJEU). Coded \code{0} if \code{job\_judge} is not coded \code{1}.
-\item[\code{common\_law\_university}] \code{dummy }\hspace{5pt}A dummy variable indicating whether the item mentions a common law university.
+\item[\code{job\_judge}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a lawyer. Coded \code{0} if \code{type\_job} is not coded \code{1}.
+\item[\code{job\_lawyer}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge. Coded \code{0} if \code{type\_job} is not coded \code{1}.
+\item[\code{job\_civil\_servant}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a civil servant. Coded \code{0} if \code{type\_job} is not coded \code{1}.
+\item[\code{job\_academic}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as an academic. Coded \code{0} if \code{type\_job} is not coded \code{1}.
+\item[\code{job\_politician}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a politician. Coded \code{0} if \code{type\_job} is not coded \code{1}.
+\item[\code{court\_lower}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge at a lower court. Coded \code{0} if \code{job\_judge} is not coded \code{1}.
+\item[\code{court\_high}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge at a high court. Coded \code{0} if \code{job\_judge} is not coded \code{1}.
+\item[\code{court\_cjeu}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge or an Advocate General at the CJEU. Coded \code{0} if \code{job\_judge} is not coded \code{1}.
+\item[\code{court\_international}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item says that the judge has prior experience as a judge at an international court (excluding the CJEU). Coded \code{0} if \code{job\_judge} is not coded \code{1}.
+\item[\code{common\_law\_university}] \code{dummy}\hspace{5pt}A dummy variable indicating whether the item mentions a common law university.
 \end{description}
 
 %--------------------------------------------------%

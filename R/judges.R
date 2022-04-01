@@ -20,8 +20,8 @@
 #' \describe{
 #' \item{key_id}{\code{numeric}. An ID number that uniquely identifies each
 #' observation. Indicates the default sort order for the dataset.}
-#' \item{judge_id}{\code{string}. An ID number that uniquely identifies each
-#' judge in the format \code{J:####}. The first two digits are the member
+#' \item{iuropa_judge_id}{\code{string}. An ID number that uniquely identifies
+#' each judge in the format \code{J:####}. The first two digits are the member
 #' state ID, with a leading 0 if necessary. The second two digits uniquely
 #' identify the judge within the member state. The number is assigned with the
 #' judges sorted chronologically by date of appointment and then
