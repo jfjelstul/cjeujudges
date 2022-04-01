@@ -1,6 +1,6 @@
 # cjeujudges
 
-An `R` package for the CJEU Judges Database. This package includes data on judges at the Court of Justice of the European Union (CJEU), including information about the professional backgrounds of judges, hand-coded from their official biographies. This data is used in IUROPA's [CJEU Database Platform: Decisions and Decision-Makers](http://iuropa.pol.gu.se).
+An `R` package for the CJEU Judges Database. This package includes data on judges at the Court of Justice of the European Union (CJEU), including information about the professional backgrounds of judges, hand-coded from their official biographies. Some of this data is used in the [IUROPA CJEU Database Platform: Decisions and Decision-Makers](https://www.iuropa.pol.gu.se).
 
 The CJEU Judges Database includes two datasets: `judges` and `judge_backgrounds`.
 
@@ -25,7 +25,7 @@ The codebook for the database is included as a `tibble` in the `R` package: `cje
 
 If you use data from the `cjeujudges` package in a project or paper, please cite the `R` package:
 
-> Joshua Fjelstul (2021). cjeujudges: The CJEU Judges Database. R package version 0.1.0.
+> Joshua Fjelstul (2022). cjeujudges: The CJEU Judges Database. R package version 0.1.1.
 
 The `BibTeX` entry for the package is:
 
@@ -34,7 +34,7 @@ The `BibTeX` entry for the package is:
   title = {cjeujudges: The CJEU Judges Database},
   author = {Joshua Fjelstul},
   year = {2021},
-  note = {R package version 0.1.0},
+  note = {R package version 0.1.1},
 }
 ```
 
