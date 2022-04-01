@@ -20,7 +20,7 @@ judges <- judges |>
     judge_counter = 1:n(),
     judge_counter = str_pad(judge_counter, width = 2, side = "left", pad = "0"),
     member_state_counter = str_pad(member_state_id, width = 2, side = "left", pad = "0"),
-    judge_id = str_c("J:", member_state_counter, judge_counter)
+    iuropa_judge_id = str_c("J:", member_state_counter, judge_counter)
   ) |>
   ungroup()
 
@@ -53,12 +53,12 @@ judges$end_date_civil_service_tribunal <- ymd(judges$end_date_civil_service_trib
 judges$end_date_advocate_general <- ymd(judges$end_date_advocate_general)
 
 # correspondence table
-correspondence_table <- select(judges, judge_id, last_name_label, brekke_judge_id)
+correspondence_table <- select(judges, iuropa_judge_id, last_name_label, brekke_judge_id)
 
 # organize variables
 judges <- select(
   judges,
-  key_id, judge_id,
+  key_id, iuropa_judge_id,
   full_name, first_name, last_name, last_name_latin, last_name_label, last_name_latin_label,
   member_state_id, member_state, member_state_code,
   birth_year, gender_id, gender, female,
@@ -74,7 +74,7 @@ judges <- select(
 # IUROPA template
 judges_iuropa_template <- select(
   judges,
-  judge_id,
+  iuropa_judge_id,
   full_name, first_name, last_name, last_name_latin, last_name_label, last_name_latin_label,
   member_state, birth_year, female,
   judge_court_of_justice, judge_general_court, judge_civil_service_tribunal, advocate_general,

@@ -1,4 +1,4 @@
-"key_id","judge_id","item_id","first_name","last_name","last_name_latin","last_name_label","last_name_latin_label","item_number","item_text","type_education","type_job","type_other","job_judge","job_lawyer","job_civil_servant","job_academic","job_politician","court_lower","court_high","court_cjeu","court_international","common_law_university"
+"key_id","iuropa_judge_id","item_id","first_name","last_name","last_name_latin","last_name_label","last_name_latin_label","item_number","item_text","type_education","type_job","type_other","job_judge","job_lawyer","job_civil_servant","job_academic","job_politician","court_lower","court_high","court_cjeu","court_international","common_law_university"
 1,"J:0101","J:0101:01","Louis","Delvaux","Delvaux","Delvaux","Delvaux",1,"Louis DELVAUX Born on 21 October 1895 in Orp-le-Grand (Belgium)",0,0,1,0,0,0,0,0,0,0,0,0,0
 2,"J:0101","J:0101:02","Louis","Delvaux","Delvaux","Delvaux","Delvaux",2,"Belgian national",0,0,1,0,0,0,0,0,0,0,0,0,0
 3,"J:0101","J:0101:03","Louis","Delvaux","Delvaux","Delvaux","Delvaux",3,"Doctor of Laws (1922)",1,0,0,0,0,0,0,0,0,0,0,0,0

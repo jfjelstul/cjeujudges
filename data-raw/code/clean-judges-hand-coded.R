@@ -26,7 +26,7 @@ judge_backgrounds <- select(
 # select variables
 judges <- select(
   judges,
-  judge_id, first_name, last_name, last_name_label, last_name_latin, last_name_latin_label, member_state
+  iuropa_judge_id, first_name, last_name, last_name_label, last_name_latin, last_name_latin_label, member_state
 )
 
 # merge data
@@ -34,16 +34,16 @@ judge_backgrounds <- left_join(judge_backgrounds, judges, by = c("first_name", "
 
 # item number
 judge_backgrounds <- judge_backgrounds |>
-  group_by(judge_id) |>
+  group_by(iuropa_judge_id) |>
   mutate(
     item_number = 1:n()
   )
 
 # item id
-judge_backgrounds$item_id <- str_c(judge_backgrounds$judge_id, str_pad(judge_backgrounds$item_number, side = "left", pad = "0", width = 2), sep = ":")
+judge_backgrounds$item_id <- str_c(judge_backgrounds$iuropa_judge_id, str_pad(judge_backgrounds$item_number, side = "left", pad = "0", width = 2), sep = ":")
 
 # sort data
-judge_backgrounds <- arrange(judge_backgrounds, judge_id, item_number)
+judge_backgrounds <- arrange(judge_backgrounds, iuropa_judge_id, item_number)
 
 # key id
 judge_backgrounds$key_id <- 1:nrow(judge_backgrounds)
@@ -51,7 +51,7 @@ judge_backgrounds$key_id <- 1:nrow(judge_backgrounds)
 # organize variables
 judge_backgrounds <- select(
   judge_backgrounds,
-  key_id, judge_id, item_id,
+  key_id, iuropa_judge_id, item_id,
   first_name, last_name, last_name_latin,
   last_name_label, last_name_latin_label,
   item_number, item_text,
