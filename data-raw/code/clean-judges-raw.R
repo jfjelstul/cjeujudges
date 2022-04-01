@@ -52,6 +52,9 @@ judges$end_date_general_court <- ymd(judges$end_date_general_court)
 judges$end_date_civil_service_tribunal <- ymd(judges$end_date_civil_service_tribunal)
 judges$end_date_advocate_general <- ymd(judges$end_date_advocate_general)
 
+# correspondence table
+correspondence_table <- select(judges, judge_id, last_name_label, brekke_judge_id)
+
 # organize variables
 judges <- select(
   judges,
@@ -68,10 +71,38 @@ judges <- select(
   start_date_advocate_general, end_date_advocate_general
 )
 
+# IUROPA template
+judges_iuropa_template <- select(
+  judges,
+  judge_id,
+  full_name, first_name, last_name, last_name_latin, last_name_label, last_name_latin_label,
+  member_state, birth_year, female,
+  judge_court_of_justice, judge_general_court, judge_civil_service_tribunal, advocate_general,
+  current_member, count_positions, nonconsecutive_positions,
+  start_date, end_date,
+  start_date_court_of_justice, end_date_court_of_justice,
+  start_date_general_court, end_date_general_court,
+  start_date_civil_service_tribunal, end_date_civil_service_tribunal,
+  start_date_advocate_general, end_date_advocate_general
+)
+
+# make bools
+judges_iuropa_template <- judges_iuropa_template |> mutate(
+  female = as.logical(female),
+  judge_court_of_justice = as.logical(judge_court_of_justice),
+  judge_general_court = as.logical(judge_general_court),
+  judge_civil_service_tribunal = as.logical(judge_civil_service_tribunal),
+  advocate_general = as.logical(advocate_general),
+  current_member = as.logical(current_member),
+  nonconsecutive_positions = as.logical(nonconsecutive_positions)
+)
+
 # save files
 write.csv(judges, "build/csv/judges.csv", row.names = FALSE)
 save(judges, file = "build/rdata/judges.RData")
 save(judges, file = "data/judges.RData")
+write.csv(judges_iuropa_template, "build/database/judges_iuropa_template.csv", row.names = FALSE)
+write.csv(correspondence_table, "build/database/correspondence_table.csv", row.names = FALSE)
 
 ################################################################################
 # end R script
