@@ -1,6 +1,6 @@
 # cjeujudges
 
-An `R` package for the CJEU Judges Database. This package includes data on judges at the Court of Justice of the European Union (CJEU), including information about the professional backgrounds of judges, hand-coded from their official biographies. This data is used in the [IUROPA CJEU Database Platform: Decisions and Decision-Makers](https://www.iuropa.pol.gu.se).
+An `R` package for the CJEU Judges Database. This package includes data on judges at the Court of Justice of the European Union (CJEU), including information about the professional backgrounds of judges, hand-coded from their official biographies. Some of this data is used in the [IUROPA CJEU Database Platform: Decisions and Decision-Makers](https://www.iuropa.pol.gu.se).
 
 The CJEU Judges Database includes two datasets: `judges` and `judge_backgrounds`.
 
