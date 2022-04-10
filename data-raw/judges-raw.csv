@@ -1,255 +1,268 @@
-brekke_judge_id,full_name,first_name,last_name,last_name_latin,last_name_label,last_name_latin_label,member_state_id,member_state,member_state_code,birth_year,gender_id,gender,female,judge_court_of_justice,judge_general_court,judge_civil_service_tribunal,advocate_general,current_status,count_positions,nonconsecutive_positions,start_date,end_date,start_date_court_of_justice,end_date_court_of_justice,start_date_general_court,end_date_general_court,start_date_civil_service_tribunal,end_date_civil_service_tribunal,start_date_advocate_general,end_date_advocate_general
-201,Louis Delvaux,Louis,Delvaux,Delvaux,Delvaux,Delvaux,1,Belgium,BE,1895,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-07,1952-12-04,1958-10-07,,,,,,
-202,Josse Mertens de Wilmars,Josse,Mertens de Wilmars,Mertens de Wilmars,Mertens de Wilmars,Mertens de Wilmars,1,Belgium,BE,1912,2,Male,0,1,0,0,0,Former CJ judge,1,0,1967-10-09,1984-04-10,1967-10-09,1984-04-10,,,,,,
-203,René Joliet,René,Joliet,Joliet,Joliet,Joliet,1,Belgium,BE,1938,2,Male,0,1,0,0,0,Former CJ judge,1,0,1984-04-10,1995-07-15,1984-04-10,1995-07-15,,,,,,
-209,Walter Van Gerven,Walter,Van Gerven,Van Gerven,Van Gerven,Van Gerven,1,Belgium,BE,1935,2,Male,0,0,0,0,1,Former AG,1,0,1988-10-07,1994-10-06,,,,,,,1988-10-07,1994-10-06
-204,Koen Lenaerts,Koen,Lenaerts,Lenaerts,Lenaerts,Lenaerts,1,Belgium,BE,1954,2,Male,0,1,1,0,0,Current CJ judge; Former GC judge,2,0,1989-09-25,Present,2003-10-07,Present,1989-09-25,2003-10-06,,,,
-205,Melchior Wathelet,Melchior,Wathelet,Wathelet,Wathelet,Wathelet,1,Belgium,BE,1949,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,1,1995-09-08,2018-10-08,1995-09-08,2003-10-06,,,,,2012-10-08,2018-10-08
-206,Franklin Dehousse,Franklin,Dehousse,Dehousse,Dehousse,Dehousse,1,Belgium,BE,1959,2,Male,0,0,1,0,0,Former GC judge,1,0,2003-10-07,2016-08-31,,,2003-10-07,2016-08-31,,,,
-210,Sean Van Raepenbusch,Sean,Van Raepenbusch,Van Raepenbusch,Van Raepenbusch,Van Raepenbusch,1,Belgium,BE,1956,2,Male,0,0,0,1,0,Former CST judge,1,0,2005-10-06,2016-08-31,,,,,2005-10-06,2016-08-31,,
-207,Paul Nihoul,Paul,Nihoul,Nihoul,Nihoul,Nihoul,1,Belgium,BE,1963,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-09-01,Present,,,2016-09-01,Present,,,,
-208,Geert De Baere,Geert,De Baere,De Baere,De Baere,De Baere,1,Belgium,BE,1979,2,Male,0,0,1,0,0,Current GC judge,1,0,2017-10-04,Present,,,2017-10-04,Present,,,,
-1013,Maurice Lagrange,Maurice,Lagrange,Lagrange,Lagrange,Lagrange,2,France,FR,1900,2,Male,0,0,0,0,1,Former AG,1,0,1952-12-04,1964-10-08,,,,,,,1952-12-04,1964-10-08
-1001,Jacques Rueff,Jacques,Rueff,Rueff,Rueff,Rueff,2,France,FR,1896,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1962-05-18,1952-12-04,1962-05-18,,,,,,
-1002,Robert Lecourt,Robert,Lecourt,Lecourt,Lecourt,Lecourt,2,France,FR,1908,2,Male,0,1,0,0,0,Former CJ judge,1,0,1962-05-18,1976-10-06,1962-05-18,1976-10-06,,,,,,
-1020,Joseph Gand,Joseph,Gand,Gand,Gand,Gand,2,France,FR,1913,2,Male,0,0,0,0,1,Former AG,1,0,1964-10-08,1970-10-06,,,,,,,1964-10-08,1970-10-06
-1014,Alain Louis Dutheillet de Lamothe,Alain Louis,Dutheillet de Lamothe,Dutheillet de Lamothe,Dutheillet de Lamothe,Dutheillet de Lamothe,2,France,FR,1919,2,Male,0,0,0,0,1,Former AG,1,0,1970-10-07,1972-01-02,,,,,,,1970-10-07,1972-01-02
-1015,Henri Mayras,Henri,Mayras,Mayras,Mayras,Mayras,2,France,FR,1920,2,Male,0,0,0,0,1,Former AG,1,0,1972-03-22,1981-03-18,,,,,,,1972-03-22,1981-03-18
-1003,Adolphe Touffait,Adolphe,Touffait,Touffait,Touffait,Touffait,2,France,FR,1907,2,Male,0,1,0,0,0,Former CJ judge,1,0,1976-10-14,1982-10-06,1976-10-14,1982-10-06,,,,,,
-1016,Simone Rozès,Simone,Rozès,Rozes,Rozès,Rozes,2,France,FR,1920,1,Female,1,0,0,0,1,Former AG,1,0,1981-03-18,1984-02-13,,,,,,,1981-03-18,1984-02-13
-1004,Fernand Grévisse,Fernand,Grévisse,Grevisse,Grévisse,Grevisse,2,France,FR,1924,2,Male,0,1,0,0,0,Former CJ judge,1,1,1981-04-01,1994-10-06,1981-04-01,1994-10-06,,,,,,
-1005,Yves Galmot,Yves,Galmot,Galmot,Galmot,Galmot,2,France,FR,1931,2,Male,0,1,0,0,0,Former CJ judge,1,0,1982-10-07,1988-10-06,1982-10-07,1988-10-06,,,,,,
-1017,Marco Darmon,Marco,Darmon,Darmon,Darmon,Darmon,2,France,FR,1930,2,Male,0,0,0,0,1,Former AG,1,0,1984-02-13,1994-10-06,,,,,,,1984-02-13,1994-10-06
-1006,Jacques Biancarelli,Jacques,Biancarelli,Biancarelli,Biancarelli,Biancarelli,2,France,FR,1948,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,1995-08-31,,,1989-09-01,1995-08-31,,,,
-1018,Philippe Léger,Philippe,Léger,Leger,Léger,Leger,2,France,FR,1938,2,Male,0,0,0,0,1,Former AG,1,0,1994-10-07,2006-10-06,,,,,,,1994-10-07,2006-10-06
-1007,Jean-Pierre Puissochet,Jean-Pierre,Puissochet,Puissochet,Puissochet,Puissochet,2,France,FR,1936,2,Male,0,1,0,0,0,Former CJ judge,1,0,1994-10-07,2006-10-06,1994-10-07,2006-10-06,,,,,,
-1008,André Potocki,André,Potocki,Potocki,Potocki,Potocki,2,France,FR,1950,2,Male,0,0,1,0,0,Former GC judge,1,0,1995-09-01,2001-08-31,,,1995-09-01,2001-08-31,,,,
-1009,Hubert Legal,Hubert,Legal,Legal,Legal,Legal,2,France,FR,1954,2,Male,0,0,1,0,0,Former GC judge,1,0,2001-09-01,2007-08-31,,,2001-09-01,2007-08-31,,,,
-1012,Stéphane Gervasoni,Stéphane,Gervasoni,Gervasoni,Gervasoni,Gervasoni,2,France,FR,1967,2,Male,0,0,1,1,0,Current GC judge; Former CST judge,2,1,2005-10-01,Present,,,2013-09-01,Present,2005-10-01,2011-09-30,,
-1010,Jean-Claude Bonichot,Jean-Claude,Bonichot,Bonichot,Bonichot,Bonichot,2,France,FR,1955,2,Male,0,1,0,0,0,Current CJ judge,1,0,2006-10-07,Present,2006-10-07,Present,,,,,,
-1019,Yves Bot,Yves,Bot,Bot,Bot,Bot,2,France,FR,1947,2,Male,0,0,0,0,1,Former AG,1,0,2006-10-07,2019-06-09,,,,,,,2006-10-07,2019-06-09
-1011,Laurent Truchot,Laurent,Truchot,Truchot,Truchot,Truchot,2,France,FR,1962,2,Male,0,0,1,0,0,Current GC judge,1,1,2007-09-01,Present,,,2007-09-01,Present,,,,
-1022,Jean Richard de la Tour,Jean Richard,de la Tour,de la Tour,de la Tour,de la Tour,2,France,FR,1959,2,Male,0,0,0,0,1,Current AG,1,0,2020-03-23,Present,,,,,,,2020-03-23,Present
-1101,Otto Riese,Otto,Riese,Riese,Riese,Riese,3,Germany,DE,1894,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1963-01-24,1952-12-04,1963-01-24,,,,,,
-1113,Karl Roemer,Karl,Roemer,Roemer,Roemer,Roemer,3,Germany,DE,1899,2,Male,0,0,0,0,1,Former AG,1,0,1953-10-01,1973-10-01,,,,,,,1953-10-01,1973-10-01
-1102,Walter Strauss,Walter,Strauss,Strauss,Strauss,Strauss,3,Germany,DE,1900,2,Male,0,1,0,0,0,Former CJ judge,1,0,1963-02-06,1970-10-06,1963-02-06,1970-10-06,,,,,,
-1103,Hans Kutscher,Hans,Kutscher,Kutscher,Kutscher,Kutscher,3,Germany,DE,1911,2,Male,0,1,0,0,0,Former CJ judge,1,0,1970-10-07,1980-10-30,1970-10-07,1980-10-30,,,,,,
-1114,Gerhard Reischl,Gerhard,Reischl,Reischl,Reischl,Reischl,3,Germany,DE,1918,2,Male,0,0,0,0,1,Former AG,1,0,1973-10-09,1984-01-11,,,,,,,1973-10-09,1984-01-11
-1104,Ulrich Everling,Ulrich,Everling,Everling,Everling,Everling,3,Germany,DE,1925,2,Male,0,1,0,0,0,Former CJ judge,1,0,1980-10-30,1988-10-06,1980-10-30,1988-10-06,,,,,,
-1105,Kai Bahlmann,Kai,Bahlmann,Bahlmann,Bahlmann,Bahlmann,3,Germany,DE,1927,2,Male,0,1,0,0,0,Former CJ judge,1,0,1982-10-07,1988-10-06,1982-10-07,1988-10-06,,,,,,
-1115,Carl Otto Lenz,Carl Otto,Lenz,Lenz,Lenz,Lenz,3,Germany,DE,1930,2,Male,0,0,0,0,1,Former AG,1,0,1984-01-11,1997-10-06,,,,,,,1984-01-11,1997-10-06
-1106,Manfred Zuleeg,Manfred,Zuleeg,Zuleeg,Zuleeg,Zuleeg,3,Germany,DE,1935,2,Male,0,1,0,0,0,Former CJ judge,1,0,1988-10-07,1994-10-06,1988-10-07,1994-10-06,,,,,,
-1107,Heinrich Kirschner,Heinrich,Kirschner,Kirschner,Kirschner,Kirschner,3,Germany,DE,1938,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,1997-02-06,,,1989-09-01,1997-02-06,,,,
-1108,Günter Hirsch,Günter,Hirsch,Hirsch,Hirsch,Hirsch,3,Germany,DE,1943,2,Male,0,1,0,0,0,Former CJ judge,1,0,1994-10-07,2000-07-14,1994-10-07,2000-07-14,,,,,,
-1109,Jörg Pirrung,Jörg,Pirrung,Pirrung,Pirrung,Pirrung,3,Germany,DE,1940,2,Male,0,0,1,0,0,Former GC judge,1,0,1997-06-11,2007-08-31,,,1997-06-11,2007-08-31,,,,
-1116,Siegbert Alber,Siegbert,Alber,Alber,Alber,Alber,3,Germany,DE,1936,2,Male,0,0,0,0,1,Former AG,1,0,1997-10-07,2003-10-06,,,,,,,1997-10-07,2003-10-06
-1110,Ninon Colneric,Ninon,Colneric,Colneric,Colneric,Colneric,3,Germany,DE,1948,1,Female,1,1,0,0,0,Former CJ judge,1,0,2000-07-15,2006-10-06,2000-07-15,2006-10-06,,,,,,
-1117,Juliane Kokott,Juliane,Kokott,Kokott,Kokott,Kokott,3,Germany,DE,1957,1,Female,1,0,0,0,1,Current AG,1,0,2003-10-07,Present,,,,,,,2003-10-07,Present
-1118,Horstpeter Kreppel,Horstpeter,Kreppel,Kreppel,Kreppel,Kreppel,3,Germany,DE,1945,2,Male,0,0,0,1,0,Former CST judge,1,0,2005-10-06,2016-04-13,,,,,2005-10-06,2016-04-13,,
-1111,Thomas von Danwitz,Thomas,von Danwitz,von Danwitz,von Danwitz,von Danwitz,3,Germany,DE,1962,2,Male,0,1,0,0,0,Current CJ judge,1,0,2006-10-07,Present,2006-10-07,Present,,,,,,
-1112,Alfred Dittrich,Alfred,Dittrich,Dittrich,Dittrich,Dittrich,3,Germany,DE,1950,2,Male,0,0,1,0,0,Former GC judge,1,0,2007-09-01,2019-09-26,,,2007-09-01,2019-09-26,,,,
-1120,Johannes Christoph Laitenberger,Johannes Christoph,Laitenberger,Laitenberger,Laitenberger,Laitenberger,3,Germany,DE,1964,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-1121,Gabriele Steinfatt,Gabriele,Steinfatt,Steinfatt,Steinfatt,Steinfatt,3,Germany,DE,1977,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-1501,Massimo Pilotti,Massimo,Pilotti,Pilotti,Pilotti,Pilotti,4,Italy,IT,1879,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-06,1952-12-04,1958-10-06,,,,,,
-1503,Nicola Catalano,Nicola,Catalano,Catalano,Catalano,Catalano,4,Italy,IT,1910,2,Male,0,1,0,0,0,Former CJ judge,1,0,1958-10-07,1962-01-01,1958-10-07,1962-01-01,,,,,,
-1502,Rino Rossi,Rino,Rossi,Rossi,"Rossi, R.","Rossi, R.",4,Italy,IT,1889,2,Male,0,1,0,0,0,Former CJ judge,1,0,1958-10-07,1964-10-06,1958-10-07,1964-10-06,,,,,,
-1504,Alberto Trabucchi,Alberto,Trabucchi,Trabucchi,Trabucchi,Trabucchi,4,Italy,IT,1907,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,0,1962-03-08,1976-10-06,1962-03-08,1972-12-12,,,,,1973-01-09,1976-10-06
-1505,Riccardo Monaco,Riccardo,Monaco,Monaco,Monaco,Monaco,4,Italy,IT,1909,2,Male,0,1,0,0,0,Former CJ judge,1,0,1964-10-08,1975-10-07,1964-10-08,1975-10-07,,,,,,
-1506,Francesco Capotorti,Francesco,Capotorti,Capotorti,Capotorti,Capotorti,4,Italy,IT,1925,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,0,1976-01-20,1982-10-06,1976-01-20,1976-10-06,,,,,1976-10-07,1982-10-06
-1507,Giacinto Bosco,Giacinto,Bosco,Bosco,Bosco,Bosco,4,Italy,IT,1905,2,Male,0,1,0,0,0,Former CJ judge,1,0,1976-10-07,1988-10-06,1976-10-07,1988-10-06,,,,,,
-1508,Giuseppe Federico Mancini,Giuseppe Federico,Mancini,Mancini,Mancini,Mancini,4,Italy,IT,1927,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,0,1982-10-07,1999-07-21,1988-10-07,1999-07-21,,,,,1982-10-07,1988-10-06
-1517,Giuseppe Tesauro,Giuseppe,Tesauro,Tesauro,Tesauro,Tesauro,4,Italy,IT,1942,2,Male,0,0,0,0,1,Former AG,1,0,1988-10-07,1998-03-04,,,,,,,1988-10-07,1998-03-04
-1509,Antonio Saggio,Antonio,Saggio,Saggio,Saggio,Saggio,4,Italy,IT,1934,2,Male,0,0,1,0,1,Former GC judge; Former AG,2,0,1989-09-01,2000-10-06,,,1989-09-01,1998-03-04,,,1998-03-05,2000-10-06
-1510,Antonio Mario La Pergola,Antonio Mario,La Pergola,La Pergola,La Pergola,La Pergola,4,Italy,IT,1931,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,1,1994-10-07,2006-05-03,1994-10-07,2006-05-03,,,,,1995-01-01,1999-12-14
-1511,Paolo Mengozzi,Paolo,Mengozzi,Mengozzi,Mengozzi,Mengozzi,4,Italy,IT,1938,2,Male,0,0,1,0,1,Former GC judge; Former AG,2,0,1998-03-04,2018-10-08,,,1998-03-04,2006-05-03,,,2006-05-04,2018-10-08
-1513,Antonio Tizzano,Antonio,Tizzano,Tizzano,Tizzano,Tizzano,4,Italy,IT,1940,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,0,2000-10-07,2018-10-08,2006-05-04,2018-10-08,,,,,2000-10-07,2006-05-03
-1512,Enzo Moavero Milanesi,Enzo,Moavero Milanesi,Moavero Milanesi,Moavero Milanesi,Moavero Milanesi,4,Italy,IT,1954,2,Male,0,0,1,0,0,Former GC judge,1,0,2006-05-03,2011-11-15,,,2006-05-03,2011-11-15,,,,
-1515,Ezio Perillo,Ezio,Perillo,Perillo,Perillo,Perillo,4,Italy,IT,1950,2,Male,0,0,1,1,0,Former GC judge; Former CST judge,2,0,2011-10-06,2016-09-19,,,2016-09-19,2019-09-26,2011-10-06,2016-08-31,,
-1514,Guido Berardis,Guido,Berardis,Berardis,Berardis,Berardis,4,Italy,IT,1950,2,Male,0,0,1,0,0,Former GC judge,1,0,2012-09-07,2019-09-26,,,2012-09-07,2019-09-26,,,,
-1518,Giovanni Pitruzzella,Giovanni,Pitruzzella,Pitruzzella,Pitruzzella,Pitruzzella,4,Italy,IT,1959,2,Male,0,0,0,0,1,Current AG,1,0,2018-10-08,Present,,,,,,,2018-10-08,Present
-1516,Lucia Serena Rossi,Lucia Serena,Rossi,Rossi,"Rossi, L.","Rossi, L.",4,Italy,IT,1958,1,Female,1,1,0,0,0,Current CJ judge,1,0,2018-10-08,Present,2018-10-08,Present,,,,,,
-1519,Roberto Mastroianni,Roberto,Mastroianni,Mastroianni,Mastroianni,Mastroianni,4,Italy,IT,1964,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-1520,Ornella Porchia,Ornella,Porchia,Porchia,Porchia,Porchia,4,Italy,IT,1966,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-1801,Charles Léon Hammes,Charles Léon,Hammes,Hammes,Hammes,Hammes,5,Luxembourg,LU,1898,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1967-10-09,1952-12-04,1967-10-09,,,,,,
-1802,Pierre Pescatore,Pierre,Pescatore,Pescatore,Pescatore,Pescatore,5,Luxembourg,LU,1919,2,Male,0,1,0,0,0,Former CJ judge,1,0,1967-10-09,1985-10-06,1967-10-09,1985-10-06,,,,,,
-1803,Fernand Schockweiler,Fernand,Schockweiler,Schockweiler,Schockweiler,Schockweiler,5,Luxembourg,LU,1935,2,Male,0,1,0,0,0,Former CJ judge,1,0,1985-10-07,1996-06-01,1985-10-07,1996-06-01,,,,,,
-1809,Jean Mischo,Jean,Mischo,Mischo,Mischo,Mischo,5,Luxembourg,LU,1938,2,Male,0,0,0,0,1,Former AG,1,1,1986-01-13,2003-10-06,,,,,,,1986-01-13,2003-10-06
-1804,Romain Schintgen,Romain,Schintgen,Schintgen,Schintgen,Schintgen,5,Luxembourg,LU,1939,2,Male,0,1,1,0,0,Former CJ judge; Former GC judge,2,0,1989-09-25,2008-01-14,1996-07-12,2008-01-14,1989-09-25,1996-07-11,,,,
-1805,Marc Jaeger,Marc,Jaeger,Jaeger,Jaeger,Jaeger,5,Luxembourg,LU,1954,2,Male,0,0,1,0,0,Current GC judge,1,0,1996-07-11,Present,,,1996-07-11,Present,,,,
-1806,Jean-Jacques Kasel,Jean-Jacques,Kasel,Kasel,Kasel,Kasel,5,Luxembourg,LU,1946,2,Male,0,1,0,0,0,Former CJ judge,1,0,2008-01-15,2013-10-06,2008-01-15,2013-10-06,,,,,,
-1807,François Biltgen,François,Biltgen,Biltgen,Biltgen,Biltgen,5,Luxembourg,LU,1958,2,Male,0,1,0,0,0,Current CJ judge,1,0,2013-10-06,Present,2013-10-06,Present,,,,,,
-1808,Dean Spielmann,Dean,Spielmann,Spielmann,Spielmann,Spielmann,5,Luxembourg,LU,1962,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
-2001,Petrus Serrarens,Petrus,Serrarens,Serrarens,Serrarens,Serrarens,6,Netherlands,NL,1888,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-06,1952-12-04,1958-10-06,,,,,,
-2002,Adrianus van Kleffens,Adrianus,van Kleffens,van Kleffens,van Kleffens,van Kleffens,6,Netherlands,NL,1899,2,Male,0,1,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-06,1952-12-04,1958-10-06,,,,,,
-2003,Andreas Matthias Donner,Andreas Matthias,Donner,Donner,Donner,Donner,6,Netherlands,NL,1918,2,Male,0,1,0,0,0,Former CJ judge,1,0,1958-10-07,1979-04-01,1958-10-07,1979-04-01,,,,,,
-2004,Thymen Koopmans,Thymen,Koopmans,Koopmans,Koopmans,Koopmans,6,Netherlands,NL,1929,2,Male,0,1,0,0,0,Former CJ judge,1,0,1979-04-01,1990-03-29,1979-04-01,1990-03-29,,,,,,
-2012,Pieter verLoren van Themaat,Pieter,verLoren van Themaat,verLoren van Themaat,verLoren van Themaat,verLoren van Themaat,6,Netherlands,NL,1916,2,Male,0,0,0,0,1,Former AG,1,0,1981-06-04,1986-01-13,,,,,,,1981-06-04,1986-01-13
-2005,Cornelis Paulus Briët,Cornelis Paulus,Briët,Briet,Briët,Briet,6,Netherlands,NL,1944,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,1998-08-31,,,1989-09-01,1998-08-31,,,,
-2006,Paul Joan George Kapteyn,Paul Joan George,Kapteyn,Kapteyn,Kapteyn,Kapteyn,6,Netherlands,NL,1928,2,Male,0,1,0,0,0,Former CJ judge,1,0,1990-03-29,2000-10-06,1990-03-29,2000-10-06,,,,,,
-2007,Arjen Meij,Arjen,Meij,Meij,Meij,Meij,6,Netherlands,NL,1944,2,Male,0,0,1,0,0,Former GC judge,1,0,1992-09-01,2010-08-31,,,1992-09-01,2010-08-31,,,,
-2013,Leendert Adrie Geelhoed,Leendert Adrie,Geelhoed,Geelhoed,Geelhoed,Geelhoed,6,Netherlands,NL,1942,2,Male,0,0,0,0,1,Former AG,1,0,2000-10-07,2006-10-06,,,,,,,2000-10-07,2006-10-06
-2008,Christiaan Willem Anton Timmermans,Christiaan Willem Anton,Timmermans,Timmermans,Timmermans,Timmermans,6,Netherlands,NL,1941,2,Male,0,1,0,0,0,Former CJ judge,1,0,2000-10-07,2010-07-10,2000-10-07,2010-07-10,,,,,,
-2009,Alexandra Prechal,Alexandra,Prechal,Prechal,Prechal,Prechal,6,Netherlands,NL,1959,1,Female,1,1,0,0,0,Current CJ judge,1,0,2010-07-10,Present,2010-07-10,Present,,,,,,
-2010,Marc van der Woude,Marc,van der Woude,van der Woude,van der Woude,van der Woude,6,Netherlands,NL,1960,2,Male,0,0,1,0,0,Current GC judge,1,0,2010-09-01,Present,,,2010-09-01,Present,,,,
-2011,René Barents,René,Barents,Barents,Barents,Barents,6,Netherlands,NL,1951,2,Male,0,0,1,1,0,Current GC judge; Former CST judge,2,0,2011-10-06,Present,,,2016-09-01,Present,2011-10-06,2016-08-31,,
-701,Max Sørensen,Max,Sørensen,Sorensen,Sørensen,Sorensen,7,Denmark,DK,1913,2,Male,0,1,0,0,0,Former CJ judge,1,0,1973-01-01,1979-10-06,1973-01-01,1979-10-06,,,,,,
-702,Ole Due,Ole,Due,Due,Due,Due,7,Denmark,DK,1931,2,Male,0,1,0,0,0,Former CJ judge,1,0,1979-10-07,1994-10-06,1979-10-07,1994-10-06,,,,,,
-703,Bo Vesterdorf,Bo,Vesterdorf,Vesterdorf,Vesterdorf,Vesterdorf,7,Denmark,DK,1945,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,2007-09-17,,,1989-09-01,2007-09-17,,,,
-704,Claus Christian Gulmann,Claus Christian,Gulmann,Gulmann,Gulmann,Gulmann,7,Denmark,DK,1942,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,0,1991-10-07,2006-01-10,1994-10-07,2006-01-10,,,,,1991-10-07,1994-10-06
-708,Michael Bendik Elmer,Michael Bendik,Elmer,Elmer,Elmer,Elmer,7,Denmark,DK,1949,2,Male,0,0,0,0,1,Former AG,1,0,1994-10-07,1997-12-18,,,,,,,1994-10-07,1997-12-18
-705,Lars Bay Larsen,Lars,Bay Larsen,Bay Larsen,Bay Larsen,Bay Larsen,7,Denmark,DK,1953,2,Male,0,1,0,0,0,Current CJ judge,1,0,2006-01-11,Present,2006-01-11,Present,,,,,,
-706,Sten Frimodt Nielsen,Sten,Frimodt Nielsen,Frimodt Nielsen,Frimodt Nielsen,Frimodt Nielsen,7,Denmark,DK,1963,2,Male,0,0,1,0,0,Current GC judge,1,0,2007-09-17,Present,,,2007-09-17,Present,,,,
-707,Jesper Svenningsen,Jesper,Svenningsen,Svenningsen,Svenningsen,Svenningsen,7,Denmark,DK,1966,2,Male,0,0,1,1,0,Current GC judge; Former CST judge,2,0,2013-10-07,Present,,,2016-09-01,Present,2013-10-07,2016-08-31,,
-709,Henrik Saugmandsgaard Øe,Henrik,Saugmandsgaard Øe,Saugmandsgaard Oe,Saugmandsgaard Øe,Saugmandsgaard Oe,7,Denmark,DK,1964,2,Male,0,0,0,0,1,Former AG,1,0,2015-10-07,2021-10-07,,,,,,,2015-10-07,2021-10-07
-1401,Cearbhall O'Dalaigh,Cearbhall,O'Dalaigh,O'Dalaigh,O'Dalaigh,O'Dalaigh,8,Ireland,IE,1911,2,Male,0,1,0,0,0,Former CJ judge,1,0,1973-01-01,1974-12-12,1973-01-01,1974-12-12,,,,,,
-1402,Andreas O'Keeffe,Andreas,O'Keeffe,O'Keeffe,O'Keeffe,O'Keeffe,8,Ireland,IE,1912,2,Male,0,1,0,0,0,Former CJ judge,1,0,1975-12-12,1984-12-31,1975-12-12,1984-12-31,,,,,,
-1403,Thomas Francis O'Higgins,Thomas Francis,O'Higgins,O'Higgins,"O'Higgins, T.","O'Higgins, T.",8,Ireland,IE,1913,2,Male,0,1,0,0,0,Former CJ judge,1,0,1985-01-16,1991-10-06,1985-01-16,1991-10-06,,,,,,
-1404,Donal Patrick Michael Barrington,Donal Patrick Michael,Barrington,Barrington,Barrington,Barrington,8,Ireland,IE,1928,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,1996-01-10,,,1989-09-01,1996-01-10,,,,
-1405,John Murray,John,Murray,Murray,Murray,Murray,8,Ireland,IE,1943,2,Male,0,1,0,0,0,Former CJ judge,1,0,1991-10-07,1999-10-09,1991-10-07,1999-10-09,,,,,,
-1414,Nial Fennelly,Nial,Fennelly,Fennelly,Fennelly,Fennelly,8,Ireland,IE,1942,2,Male,0,0,0,0,1,Former AG,1,0,1995-01-19,2000-10-06,,,,,,,1995-01-19,2000-10-06
-1406,John Cooke,John,Cooke,Cooke,Cooke,Cooke,8,Ireland,IE,1944,2,Male,0,0,1,0,0,Former GC judge,1,0,1996-01-10,2008-09-15,,,1996-01-10,2008-09-15,,,,
-1407,Fidelma O'Kelly Macken,Fidelma,O'Kelly Macken,O'Kelly Macken,O'Kelly Macken,O'Kelly Macken,8,Ireland,IE,1942,1,Female,1,1,0,0,0,Former CJ judge,1,0,1999-10-06,2004-10-13,1999-10-06,2004-10-13,,,,,,
-1408,Aindrias Ó Caoimh,Aindrias,Ó Caoimh,O Caoimh,Ó Caoimh,O Caoimh,8,Ireland,IE,1950,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-10-13,2015-10-06,2004-10-13,2015-10-06,,,,,,
-1409,Kevin O'Higgins,Kevin,O'Higgins,O'Higgins,"O'Higgins, K.","O'Higgins, K.",8,Ireland,IE,1946,2,Male,0,0,1,0,0,Former GC judge,1,0,2008-09-15,2013-08-31,,,2008-09-15,2013-08-31,,,,
-1415,Kieran Bradley,Kieran,Bradley,Bradley,Bradley,Bradley,8,Ireland,IE,1957,2,Male,0,0,0,1,0,Former CST judge,1,0,2011-10-06,2016-08-31,,,,,2011-10-06,2016-08-31,,
-1410,Anthony Michael Collins,Anthony Michael,Collins,Collins,Collins,Collins,8,Ireland,IE,1960,2,Male,0,0,1,0,1,Current AG; Former GC judge,2,0,2013-09-16,Present,,,2013-09-16,2021-10-07,,,2021-10-07,Present
-1411,Eugene Regan,Eugene,Regan,Regan,Regan,Regan,8,Ireland,IE,1952,2,Male,0,1,0,0,0,Current CJ judge,1,0,2015-10-07,Present,2015-10-07,Present,,,,,,
-1412,Colm Mac Eochaidh,Colm,Mac Eochaidh,Mac Eochaidh,Mac Eochaidh,Mac Eochaidh,8,Ireland,IE,1963,2,Male,0,0,1,0,0,Current GC judge,1,0,2017-06-08,Present,,,2017-06-08,Present,,,,
-1413,Gerard Hogan,Gerard,Hogan,Hogan,Hogan,Hogan,8,Ireland,IE,1958,2,Male,0,0,0,0,1,Former AG,1,0,2018-10-08,2021-10-07,,,,,,,2018-10-08,2021-10-07
-2801,Alexander Mackenzie Stuart,Alexander,Mackenzie Stuart,Mackenzie Stuart,Mackenzie Stuart,Mackenzie Stuart,9,United Kingdom,UK,1924,2,Male,0,1,0,0,0,Former CJ judge,1,0,1973-01-01,1988-10-06,1973-01-01,1988-10-06,,,,,,
-2809,Jean-Pierre Warner,Jean-Pierre,Warner,Warner,Warner,Warner,9,United Kingdom,UK,1924,2,Male,0,0,0,0,1,Former AG,1,0,1973-01-09,1981-02-26,,,,,,,1973-01-09,1981-02-26
-2802,Gordon Slynn,Gordon,Slynn,Slynn,Slynn,Slynn,9,United Kingdom,UK,1930,2,Male,0,1,0,0,1,Former CJ judge; Former AG,2,0,1981-02-26,1992-03-10,1988-10-07,1992-03-10,,,,,1981-02-26,1988-10-06
-2810,Francis Geoffrey Jacobs,Francis Geoffrey,Jacobs,Jacobs,Jacobs,Jacobs,9,United Kingdom,UK,1939,2,Male,0,0,0,0,1,Former AG,1,0,1988-10-07,2006-01-10,,,,,,,1988-10-07,2006-01-10
-2803,David Alexander Ogilvy Edward,David Alexander Ogilvy,Edward,Edward,Edward,Edward,9,United Kingdom,UK,1934,2,Male,0,1,1,0,0,Former CJ judge; Former GC judge,2,0,1989-09-25,2004-01-07,1992-03-10,2004-01-07,1989-09-25,1992-03-09,,,,
-2804,Christopher William Bellamy,Christopher William,Bellamy,Bellamy,Bellamy,Bellamy,9,United Kingdom,UK,1946,2,Male,0,0,1,0,0,Former GC judge,1,0,1992-03-10,1999-12-15,,,1992-03-10,1999-12-15,,,,
-2805,Nicholas James Forwood,Nicholas James,Forwood,Forwood,Forwood,Forwood,9,United Kingdom,UK,1948,2,Male,0,0,1,0,0,Former GC judge,1,0,1999-12-02,2015-10-01,,,1999-12-02,2015-10-01,,,,
-2806,Konrad Hermann Theodor Schiemann,Konrad Hermann Theodor,Schiemann,Schiemann,Schiemann,Schiemann,9,United Kingdom,UK,1937,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-01-01,2012-10-06,2004-01-01,2012-10-06,,,,,,
-2812,Paul John Mahoney,Paul John,Mahoney,Mahoney,Mahoney,Mahoney,9,United Kingdom,UK,1946,2,Male,0,0,0,1,0,Former CST judge,1,0,2005-10-06,2011-10-06,,,,,2005-10-06,2011-10-06,,
-2811,Eleanor Sharpston,Eleanor,Sharpston,Sharpston,Sharpston,Sharpston,9,United Kingdom,UK,1955,1,Female,1,0,0,0,1,Former AG,1,0,2006-01-11,2020-09-10,,,,,,,2006-01-11,2020-09-10
-2807,Christopher Vajda,Christopher,Vajda,Vajda,Vajda,Vajda,9,United Kingdom,UK,1955,2,Male,0,1,0,0,0,Former CJ judge,1,0,2012-10-07,2020-01-31,2012-10-07,2020-01-31,,,,,,
-2808,Ian Stewart Forrester,Ian Stewart,Forrester,Forrester,Forrester,Forrester,9,United Kingdom,UK,1945,2,Male,0,0,1,0,0,Former GC judge,1,0,2015-10-01,2020-01-31,,,2015-10-01,2020-01-31,,,,
-1201,Alexandros Chloros,Alexandros,Chloros,Chloros,Chloros,Chloros,10,Greece,EL,1926,2,Male,0,1,0,0,0,Former CJ judge,1,0,1981-01-01,1982-11-16,1981-01-01,1982-11-16,,,,,,
-1202,Constantinos Kakouris,Constantinos,Kakouris,Kakouris,Kakouris,Kakouris,10,Greece,EL,1919,2,Male,0,1,0,0,0,Former CJ judge,1,0,1983-02-16,1997-10-06,1983-02-16,1997-10-06,,,,,,
-1203,Christos Yeraris,Christos,Yeraris,Yeraris,Yeraris,Yeraris,10,Greece,EL,1938,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,1992-08-31,,,1989-09-01,1992-08-31,,,,
-1204,Andreas Kalogeropoulos,Andreas,Kalogeropoulos,Kalogeropoulos,Kalogeropoulos,Kalogeropoulos,10,Greece,EL,1944,2,Male,0,0,1,0,0,Former GC judge,1,0,1992-09-18,1998-08-31,,,1992-09-18,1998-08-31,,,,
-1210,Georges Cosmas,Georges,Cosmas,Cosmas,Cosmas,Cosmas,10,Greece,EL,1932,2,Male,0,0,0,0,1,Former AG,1,0,1994-10-07,2000-10-06,,,,,,,1994-10-07,2000-10-06
-1205,Krateros Ioannou,Krateros,Ioannou,Ioannou,Ioannou,Ioannou,10,Greece,EL,1935,2,Male,0,1,0,0,0,Former CJ judge,1,0,1997-10-07,1999-03-10,1997-10-07,1999-03-10,,,,,,
-1206,Michail Vilaras,Michail,Vilaras,Vilaras,Vilaras,Vilaras,10,Greece,EL,1950,2,Male,0,1,1,0,0,Former CJ judge; Former GC judge,2,1,1998-09-01,2021-10-07,2015-10-07,2021-10-07,1998-09-01,2010-09-01,,,,
-1207,Vassilios Skouris,Vassilios,Skouris,Skouris,Skouris,Skouris,10,Greece,EL,1948,2,Male,0,1,0,0,0,Former CJ judge,1,0,1999-05-26,2015-10-06,1999-05-26,2015-10-06,,,,,,
-1211,Haris Tagaras,Haris,Tagaras,Tagaras,Tagaras,Tagaras,10,Greece,EL,1955,2,Male,0,0,0,1,0,Former CST judge,1,0,2005-10-06,2011-10-06,,,,,2005-10-06,2011-10-06,,
-1208,Dimitrios Gratsias,Dimitrios,Gratsias,Gratsias,Gratsias,Gratsias,10,Greece,EL,1957,2,Male,0,1,1,0,0,Current CJ judge; Former GC judge,2,0,2010-10-25,Present,2021-10-07,Present,2010-10-25,2021-10-07,,,,
-1209,Constantinos Iliopoulos,Constantinos,Iliopoulos,Iliopoulos,Iliopoulos,Iliopoulos,10,Greece,EL,1948,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
-1212,Athanasios Rantos,Athanasios,Rantos,Rantos,Rantos,Rantos,10,Greece,EL,1953,2,Male,0,0,0,0,1,Current AG,1,0,2020-09-10,Present,,,,,,,2020-09-10,Present
-2202,José Luis da Cruz Vilaça,José Luis,da Cruz Vilaça,da Cruz Vilaca,da Cruz Vilaça,da Cruz Vilaca,11,Portugal,PT,1944,2,Male,0,1,1,0,1,Former CJ judge; Former GC judge; Former AG,3,1,1986-01-01,2018-10-08,2012-10-08,2018-10-08,1989-09-01,1995-08-31,,,1986-01-01,1988-10-06
-2201,José Carlos de Carvalho Moitinho de Almeida,José Carlos,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,11,Portugal,PT,1936,2,Male,0,1,0,0,0,Former CJ judge,1,0,1986-01-01,2000-10-06,1986-01-01,2000-10-06,,,,,,
-2203,Rui Manuel Gens de Moura Ramos,Rui Manuel,Gens de Moura Ramos,Gens de Moura Ramos,Gens de Moura Ramos,Gens de Moura Ramos,11,Portugal,PT,1950,2,Male,0,0,1,0,0,Former GC judge,1,0,1995-09-18,2003-03-31,,,1995-09-18,2003-03-31,,,,
-2204,José Narciso da Cunha Rodrigues,José Narciso,da Cunha Rodrigues,da Cunha Rodrigues,da Cunha Rodrigues,da Cunha Rodrigues,11,Portugal,PT,1940,2,Male,0,1,0,0,0,Former CJ judge,1,0,2000-10-07,2012-10-06,2000-10-07,2012-10-06,,,,,,
-2205,Maria Eugénia Martins de Nazaré Ribeiro,Maria Eugénia,Martins de Nazaré Ribeiro,Martins de Nazare Ribeiro,Martins de Nazaré Ribeiro,Martins de Nazare Ribeiro,11,Portugal,PT,1956,1,Female,1,0,1,0,0,Former GC judge,1,0,2003-04-01,2016-08-31,,,2003-04-01,2016-08-31,,,,
-2209,Luís Miguel Poiares Pessoa Maduro,Luís Miguel,Poiares Pessoa Maduro,Poiares Pessoa Maduro,Poiares Pessoa Maduro,Poiares Pessoa Maduro,11,Portugal,PT,1967,2,Male,0,0,0,0,1,Former AG,1,0,2003-10-07,2009-10-06,,,,,,,2003-10-07,2009-10-06
-2210,João Sant'Anna,João,Sant'Anna,Sant'Anna,Sant'Anna,Sant'Anna,11,Portugal,PT,1957,2,Male,0,0,0,1,0,Former CST judge,1,0,2016-04-13,2016-08-31,,,,,2016-04-13,2016-08-31,,
-2207,Maria José Costeira,Maria José,Costeira,Costeira,Costeira,Costeira,11,Portugal,PT,1967,1,Female,1,0,1,0,0,Current GC judge,1,0,2016-09-19,Present,,,2016-09-19,Present,,,,
-2206,Ricardo da Silva Passos,Ricardo,da Silva Passos,da Silva Passos,da Silva Passos,da Silva Passos,11,Portugal,PT,1953,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-09-19,Present,,,2016-09-19,Present,,,,
-2208,Nuno José Cardoso da Silva Piçarra,Nuno José,Cardoso da Silva Piçarra,Cardoso da Silva Picarra,Cardoso da Silva Piçarra,Cardoso da Silva Picarra,11,Portugal,PT,1957,2,Male,0,1,0,0,0,Current CJ judge,1,0,2018-10-07,Present,2018-10-07,Present,,,,,,
-2601,Gil Carlos Rodrìguez Iglesias,Gil Carlos,Rodrìguez Iglesias,Rodriguez Iglesias,Rodrìguez Iglesias,Rodriguez Iglesias,12,Spain,ES,1946,2,Male,0,1,0,0,0,Former CJ judge,1,0,1986-01-01,2003-10-06,1986-01-01,2003-10-06,,,,,,
-2602,Manuel Diez de Velasco,Manuel,Diez de Velasco,Diez de Velasco,Diez de Velasco,Diez de Velasco,12,Spain,ES,1926,2,Male,0,1,0,0,0,Former CJ judge,1,0,1988-10-07,1994-10-06,1988-10-07,1994-10-06,,,,,,
-2603,Rafael García-Valdecasas y Fernández,Rafael,García-Valdecasas y Fernández,Garcia-Valdecasas y Fernandez,García-Valdecasas y Fernández,Garcia-Valdecasas y Fernandez,12,Spain,ES,1946,2,Male,0,0,1,0,0,Former GC judge,1,0,1989-09-01,2007-08-31,,,1989-09-01,2007-08-31,,,,
-2608,Dámaso Ruiz-Jarabo Colomer,Dámaso,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,12,Spain,ES,1949,2,Male,0,0,0,0,1,Former AG,1,0,1995-01-19,2009-11-12,,,,,,,1995-01-19,2009-11-12
-2604,Rosario Silva de Lapuerta,Rosario,Silva de Lapuerta,Silva de Lapuerta,Silva de Lapuerta,Silva de Lapuerta,12,Spain,ES,1954,1,Female,1,1,0,0,0,Former CJ judge,1,0,2003-10-07,2021-10-07,2003-10-07,2021-10-07,,,,,,
-2605,Santiago Soldevila Fragoso,Santiago,Soldevila Fragoso,Soldevila Fragoso,Soldevila Fragoso,Soldevila Fragoso,12,Spain,ES,1960,2,Male,0,0,1,0,0,Former GC judge,1,0,2007-09-01,2013-08-31,,,2007-09-01,2013-08-31,,,,
-2611,Maria Isabel Rofes i Pujol,Maria Isabel,Rofes i Pujol,Rofes i Pujol,Rofes i Pujol,Rofes i Pujol,12,Spain,ES,1956,1,Female,1,0,0,1,0,Former CST judge,1,0,2009-10-07,2016-04-13,,,,,2009-10-07,2016-04-13,,
-2609,Pedro Cruz Villalón,Pedro,Cruz Villalón,Cruz Villalon,Cruz Villalón,Cruz Villalon,12,Spain,ES,1946,2,Male,0,0,0,0,1,Former AG,1,0,2009-12-14,2015-10-07,,,,,,,2009-12-14,2015-10-07
-2606,Ignacio Ulloa Rubio,Ignacio,Ulloa Rubio,Ulloa Rubio,Ulloa Rubio,Ulloa Rubio,12,Spain,ES,1967,2,Male,0,0,1,0,0,Former GC judge,1,0,2013-09-01,2019-09-26,,,2013-09-01,2019-09-26,,,,
-2610,Manuel Campos Sánchez-Bordona,Manuel,Campos Sánchez-Bordona,Campos Sanchez-Bordona,Campos Sánchez-Bordona,Campos Sanchez-Bordona,12,Spain,ES,1950,2,Male,0,0,0,0,1,Current AG,1,0,2015-10-07,Present,,,,,,,2015-10-07,Present
-2607,Leopoldo Calvo-Sotelo Ibáñez-Martín,Leopoldo,Calvo-Sotelo Ibáñez-Martín,Calvo-Sotelo Ibanez-Martin,Calvo-Sotelo Ibáñez-Martín,Calvo-Sotelo Ibanez-Martin,12,Spain,ES,1957,2,Male,0,0,1,0,0,Former GC judge,1,0,2016-04-13,2019-09-26,,,2016-04-13,2019-09-26,,,,
-2613,José Martín y Pérez de Nanclares,José,Martín y Pérez de Nanclares,Martin y Perez de Nanclares,Martín y Pérez de Nanclares,Martin y Perez de Nanclares,12,Spain,ES,1965,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-2612,Miguel Sampol Pucurull,Miguel,Sampol Pucurull,Sampol Pucurull,Sampol Pucurull,Sampol Pucurull,12,Spain,ES,1974,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-,Maria Lourdes Arastey Sahún,Maria,Lourdes Arastey Sahún,Lourdes Arastey Sahun,Lourdes Arastey Sahún,Lourdes Arastey Sahun,12,Spain,ES,1959,1,Female,1,1,0,0,0,Current CJ judge,1,0,2021-10-07,Present,2021-10-07,Present,,,,,,
-102,Josef Azizi,Josef,Azizi,Azizi,Azizi,Azizi,13,Austria,AT,1948,2,Male,0,0,1,0,0,Former GC judge,1,0,1995-01-01,2013-09-01,,,1995-01-01,2013-09-01,,,,
-101,Peter Jann,Peter,Jann,Jann,Jann,Jann,13,Austria,AT,1935,2,Male,0,1,0,0,0,Former CJ judge,1,0,1995-01-01,2009-10-06,1995-01-01,2009-10-06,,,,,,
-105,Christine Stix-Hackl,Christine,Stix-Hackl,Stix-Hackl,Stix-Hackl,Stix-Hackl,13,Austria,AT,1957,1,Female,1,0,0,0,1,Former AG,1,0,2000-10-07,2006-10-06,,,,,,,2000-10-07,2006-10-06
-103,Maria Berger,Maria,Berger,Berger,Berger,Berger,13,Austria,AT,1956,1,Female,1,1,0,0,0,Former CJ judge,1,0,2009-10-07,2019-03-20,2009-10-07,2019-03-20,,,,,,
-104,Viktor Kreuschitz,Viktor,Kreuschitz,Kreuschitz,Kreuschitz,Kreuschitz,13,Austria,AT,1952,2,Male,0,0,1,0,0,Current GC judge,1,0,2013-09-01,Present,,,2013-09-01,Present,,,,
-106,Andreas Kumin,Andreas,Kumin,Kumin,Kumin,Kumin,13,Austria,AT,1965,2,Male,0,1,0,0,0,Current CJ judge,1,0,2019-03-20,Present,2019-03-20,Present,,,,,,
-107,Gerhard Hesse,Gerhard,Hesse,Hesse,Hesse,Hesse,13,Austria,AT,1970,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-901,Leif Sevón,Leif,Sevón,Sevon,Sevón,Sevon,14,Finland,FI,1941,2,Male,0,1,0,0,0,Former CJ judge,1,0,1995-01-01,2002-01-16,1995-01-01,2002-01-16,,,,,,
-902,Virpi Tiili,Virpi,Tiili,Tiili,Tiili,Tiili,14,Finland,FI,1942,1,Female,1,0,1,0,0,Former GC judge,1,0,1995-01-01,2009-09-01,,,1995-01-01,2009-09-01,,,,
-903,Allan Rosas,Allan,Rosas,Rosas,Rosas,Rosas,14,Finland,FI,1948,2,Male,0,1,0,0,0,Former CJ judge,1,0,2002-01-17,2019-10-07,2002-01-17,2019-10-07,,,,,,
-904,Heikki Kanninen,Heikki,Kanninen,Kanninen,Kanninen,Kanninen,14,Finland,FI,1952,2,Male,0,0,1,1,0,Current GC judge; Former CST judge,2,0,2005-10-06,Present,,,2009-09-01,Present,2005-10-06,2009-10-06,,
-905,Niilo Jääskinen,Niilo,Jääskinen,Jaaskinen,Jääskinen,Jaaskinen,14,Finland,FI,1958,2,Male,0,1,0,0,1,Current CJ judge; Former AG,2,1,2009-10-07,Present,2019-10-07,Present,,,,,2009-10-07,2015-10-07
-906,Tuula Riitta Pynnä,Tuula Riitta,Pynnä,Pynna,Pynnä,Pynna,14,Finland,FI,1958,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-2701,Hans Ragnemalm,Hans,Ragnemalm,Ragnemalm,Ragnemalm,Ragnemalm,15,Sweden,SE,1940,2,Male,0,1,0,0,0,Former CJ judge,1,0,1995-01-01,2000-10-06,1995-01-01,2000-10-06,,,,,,
-2702,Pernilla Lindh,Pernilla,Lindh,Lindh,Lindh,Lindh,15,Sweden,SE,1945,1,Female,1,1,1,0,0,Former CJ judge; Former GC judge,2,0,1995-01-18,2011-10-06,2006-10-07,2011-10-06,1995-01-18,2006-10-06,,,,
-2703,Stig von Bahr,Stig,von Bahr,von Bahr,von Bahr,von Bahr,15,Sweden,SE,1939,2,Male,0,1,0,0,0,Former CJ judge,1,0,2000-10-08,2006-10-06,2000-10-08,2006-10-06,,,,,,
-2704,Nils Wahl,Nils,Wahl,Wahl,Wahl,Wahl,15,Sweden,SE,1961,2,Male,0,1,1,0,1,Current CJ judge; Former GC judge; Former AG,3,1,2006-10-06,Present,2019-10-07,Present,2006-10-06,2012-11-28,,,2012-11-28,2019-02-06
-2705,Carl Gustav Fernlund,Carl Gustav,Fernlund,Fernlund,Fernlund,Fernlund,15,Sweden,SE,1950,2,Male,0,1,0,0,0,Former CJ judge,1,0,2011-10-06,2019-10-07,2011-10-06,2019-10-07,,,,,,
-2706,Carl Wetter,Carl,Wetter,Wetter,Wetter,Wetter,15,Sweden,SE,1949,2,Male,0,0,1,0,0,Former GC judge,1,0,2013-03-18,2016-09-19,,,2013-03-18,2016-09-19,,,,
-2707,Fredrik Schalin,Fredrik,Schalin,Schalin,Schalin,Schalin,15,Sweden,SE,1964,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-06-08,Present,,,2016-06-08,Present,,,,
-2708,Ulf Christophe Öberg,Ulf Christophe,Öberg,Oberg,Öberg,Oberg,15,Sweden,SE,1966,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-09-19,Present,,,2016-09-19,Present,,,,
-501,George Arestis,George,Arestis,Arestis,Arestis,Arestis,16,Cyprus,CY,1945,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2014-10-06,2004-05-01,2014-10-06,,,,,,
-502,Savvas Papasavvas,Savvas,Papasavvas,Papasavvas,Papasavvas,Papasavvas,16,Cyprus,CY,1969,2,Male,0,0,1,0,0,Current GC judge,1,0,2004-05-01,Present,,,2004-05-01,Present,,,,
-503,Constantinos Lycourgos,Constantinos,Lycourgos,Lycourgos,Lycourgos,Lycourgos,16,Cyprus,CY,1964,2,Male,0,1,0,0,0,Current CJ judge,1,0,2014-10-07,Present,2014-10-07,Present,,,,,,
-504,Anna Marcoulli,Anna,Marcoulli,Marcoulli,Marcoulli,Marcoulli,16,Cyprus,CY,1978,1,Female,1,0,1,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
-,Nicholas Emiliou,Nicholas,Emiliou,Emiliou,Emiliou,Emiliou,16,Cyprus,CY,1963,2,Male,0,0,0,0,1,Current AG,1,0,2021-10-07,Present,,,,,,,2021-10-07,Present
-601,Jiří Malenovský,Jiří,Malenovský,Malenovsky,Malenovský,Malenovsky,17,Czech Republic,CZ,1950,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2020-10-06,2004-05-01,2020-10-06,,,,,,
-602,Irena Pelikánová,Irena,Pelikánová,Pelikanova,Pelikánová,Pelikanova,17,Czech Republic,CZ,1949,1,Female,1,0,1,0,0,Former GC judge,1,0,2004-05-01,2019-09-26,,,2004-05-01,2019-09-26,,,,
-604,Michal Bobek,Michal,Bobek,Bobek,Bobek,Bobek,17,Czech Republic,CZ,1977,2,Male,0,0,0,0,1,Former AG,1,0,2015-10-07,2021-10-07,,,,,,,2015-10-07,2021-10-07
-603,Jan Passer,Jan,Passer,Passer,Passer,Passer,17,Czech Republic,CZ,1974,2,Male,0,1,1,0,0,Current CJ judge; Former GC judge,2,0,2016-09-19,Present,2020-10-06,Present,2016-09-19,2020-10-06,,,,
-605,Petra Škvařilová-Pelzl,Petra,Škvařilová-Pelzl,Skvarilova-Pelzl,Škvařilová-Pelzl,Skvarilova-Pelzl,17,Czech Republic,CZ,1975,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-606,David Petrlík,David,Petrlík,Petrlik,Petrlík,Petrlik,17,Czech Republic,CZ,1978,2,Male,0,0,1,0,0,Current GC judge,1,0,2021-03-01,Present,,,2021-03-01,Present,,,,
-801,Uno Lõhmus,Uno,Lõhmus,Lohmus,Lõhmus,Lohmus,18,Estonia,EE,1952,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2013-10-06,2004-05-01,2013-10-06,,,,,,
-803,Küllike Jürimäe,Küllike,Jürimäe,Jurimae,Jürimäe,Jurimae,18,Estonia,EE,1962,1,Female,1,1,1,0,0,Current CJ judge; Former GC judge,2,0,2004-05-12,Present,2013-10-23,Present,2004-05-12,2013-10-23,,,,
-804,Lauri Madise,Lauri,Madise,Madise,Madise,Madise,18,Estonia,EE,1974,2,Male,0,0,1,0,0,Current GC judge,1,0,2013-10-06,Present,,,2013-10-06,Present,,,,
-805,Priit Pikamäe,Priit,Pikamäe,Pikamae,Pikamäe,Pikamae,18,Estonia,EE,1973,2,Male,0,0,0,0,1,Current AG,1,0,2019-02-06,Present,,,,,,,2019-02-06,Present
-806,Iko Nõmm,Iko,Nõmm,Nomm,Nõmm,Nomm,18,Estonia,EE,1977,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-1302,Ottó Czúcz,Ottó,Czúcz,Czucz,Czúcz,Czucz,19,Hungary,HU,1946,2,Male,0,0,1,0,0,Former GC judge,1,0,2004-05-01,2016-08-31,,,2004-05-01,2016-08-31,,,,
-1301,Endre Juhász,Endre,Juhász,Juhasz,Juhász,Juhasz,19,Hungary,HU,1944,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-11,2021-10-07,2004-05-11,2021-10-07,,,,,,
-1303,Zoltán Csehi,Zoltán,Csehi,Csehi,Csehi,Csehi,19,Hungary,HU,1965,2,Male,0,1,1,0,0,Current CJ judge; Former GC judge,2,0,2016-04-13,Present,2021-10-07,Present,2016-04-13,2021-10-07,,,,
-1304,Barna Berke,Barna,Berke,Berke,Berke,Berke,19,Hungary,HU,1966,2,Male,0,0,1,0,0,Former GC judge,1,0,2016-09-19,2021-08-01,,,2016-09-19,2021-08-01,,,,
-1602,Ingrida Labucka,Ingrida,Labucka,Labucka,Labucka,Labucka,20,Latvia,LV,1963,1,Female,1,0,1,0,0,Former GC judge,1,0,2004-05-01,2020-02-25,,,2004-05-01,2020-02-25,,,,
-1601,Egils Levits,Egils,Levits,Levits,Levits,Levits,20,Latvia,LV,1955,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2019-06-17,2004-05-01,2019-06-17,,,,,,
-1603,Inga Reine,Inga,Reine,Reine,Reine,Reine,20,Latvia,LV,1975,1,Female,1,0,1,0,0,Current GC judge,1,0,2016-06-08,Present,,,2016-06-08,Present,,,,
-,Pēteris Zilgalvis,Pēteris,Zilgalvis,Zilgalvis,Zilgalvis,Zilgalvis,20,Latvia,LV,1964,2,Male,0,0,1,0,0,Current GC judge,1,0,2021-09-27,Present,,,2021-09-27,Present,,,,
-,Laila Medina,Laila,Medina,Medina,Medina,Medina,20,Latvia,LV,1971,1,Female,1,0,0,0,1,Current AG,1,0,2021-10-07,Present,,,,,,,2021-10-07,Present
-1604,Ineta Ziemele,Ineta,Ziemele,Ziemele,Ziemele,Ziemele,20,Latvia,LV,1970,1,Female,1,1,0,0,0,Current CJ judge,1,0,2021-10-07,Present,2021-10-07,Present,,,,,,
-1701,Pranas Kūris,Pranas,Kūris,Kuris,Kūris,Kuris,21,Lithuania,LT,1938,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2012-10-06,2004-05-01,2012-10-06,,,,,,
-1702,Vilenas Vadapalas,Vilenas,Vadapalas,Vadapalas,Vadapalas,Vadapalas,21,Lithuania,LT,1954,2,Male,0,0,1,0,0,Former GC judge,1,0,2004-05-01,2013-08-31,,,2004-05-01,2013-08-31,,,,
-1703,Egidijus Jarašiūnas,Egidijus,Jarašiūnas,Jarasiunas,Jarašiūnas,Jarasiunas,21,Lithuania,LT,1952,2,Male,0,1,0,0,0,Former CJ judge,1,0,2010-10-06,2018-10-08,2010-10-06,2018-10-08,,,,,,
-1704,Egidijus Bieliūnas,Egidijus,Bieliūnas,Bieliunas,Bieliūnas,Bieliunas,21,Lithuania,LT,1950,2,Male,0,0,1,0,0,Former GC judge,1,0,2013-09-01,2019-09-26,,,2013-09-01,2019-09-26,,,,
-1705,Virgilijus Valančius,Virgilijus,Valančius,Valancius,Valančius,Valancius,21,Lithuania,LT,1963,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
-1706,Irmantas Jarukaitis,Irmantas,Jarukaitis,Jarukaitis,Jarukaitis,Jarukaitis,21,Lithuania,LT,1973,2,Male,0,1,0,0,0,Current CJ judge,1,0,2018-10-07,Present,2018-10-07,Present,,,,,,
-1707,Rimvydas Norkus,Rimvydas,Norkus,Norkus,Norkus,Norkus,21,Lithuania,LT,1979,2,Male,0,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-1901,Anthony Borg Barthet,Anthony,Borg Barthet,Borg Barthet,Borg Barthet,Borg Barthet,22,Malta,MT,1947,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2018-10-08,2004-05-01,2018-10-08,,,,,,
-1902,Ena Cremona,Ena,Cremona,Cremona,Cremona,Cremona,22,Malta,MT,1936,1,Female,1,0,1,0,0,Former GC judge,1,0,2004-05-01,2012-09-22,,,2004-05-01,2012-09-22,,,,
-1903,Eugène Buttigieg,Eugène,Buttigieg,Buttigieg,Buttigieg,Buttigieg,22,Malta,MT,1961,2,Male,0,0,1,0,0,Current GC judge,1,0,2012-09-22,Present,,,2012-09-22,Present,,,,
-1904,Peter George Xuereb,Peter George,Xuereb,Xuereb,Xuereb,Xuereb,22,Malta,MT,1954,2,Male,0,1,1,0,0,Current CJ judge; Former GC judge,2,0,2016-04-13,Present,2018-10-08,Present,2016-04-13,2018-10-08,,,,
-1905,Ramona Frendo,Ramona,Frendo,Frendo,Frendo,Frendo,22,Malta,MT,1971,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-03-20,Present,,,2019-03-20,Present,,,,
-2101,Jerzy Makarczyk,Jerzy,Makarczyk,Makarczyk,Makarczyk,Makarczyk,23,Poland,PL,1938,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2009-10-06,2004-05-01,2009-10-06,,,,,,
-2102,Irena Wiszniewska-Białecka,Irena,Wiszniewska-Białecka,Wiszniewska-Bialecka,Wiszniewska-Białecka,Wiszniewska-Bialecka,23,Poland,PL,1957,1,Female,1,0,1,0,0,Former GC judge,1,0,2004-05-01,2016-09-19,,,2004-05-01,2016-09-19,,,,
-2107,Irena Boruta,Irena,Boruta,Boruta,Boruta,Boruta,23,Poland,PL,1950,1,Female,1,0,0,1,0,Former CST judge,1,0,2005-10-06,2013-10-07,,,,,2005-10-06,2013-10-07,,
-2103,Marek Safjan,Marek,Safjan,Safjan,Safjan,Safjan,23,Poland,PL,1949,2,Male,0,1,0,0,0,Current CJ judge,1,0,2009-10-07,Present,2009-10-07,Present,,,,,,
-2106,Maciej Szpunar,Maciej,Szpunar,Szpunar,Szpunar,Szpunar,23,Poland,PL,1971,2,Male,0,0,0,0,1,Current AG,1,0,2013-10-23,Present,,,,,,,2013-10-23,Present
-2104,Nina Półtorak,Nina,Półtorak,Poltorak,Półtorak,Poltorak,23,Poland,PL,1971,1,Female,1,0,1,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
-2105,Krystyna Kowalik-Bańczyk,Krystyna,Kowalik-Bańczyk,Kowalik-Banczyk,Kowalik-Bańczyk,Kowalik-Banczyk,23,Poland,PL,1976,2,Male,0,0,1,0,0,Current GC judge,1,0,2016-09-01,Present,,,2016-09-01,Present,,,,
-2401,Ján Klučka,Ján,Klučka,Klucka,Klučka,Klucka,24,Slovakia,SK,1951,2,Male,0,1,0,0,0,Former CJ judge,1,0,2004-05-01,2009-10-06,2004-05-01,2009-10-06,,,,,,
-2402,Daniel Šváby,Daniel,Šváby,Svaby,Šváby,Svaby,24,Slovakia,SK,1951,2,Male,0,1,1,0,0,Former CJ judge; Former GC judge,2,0,2004-05-12,2021-10-07,2009-10-07,2021-10-07,2004-05-12,2009-10-06,,,,
-2404,Ján Mazák,Ján,Mazák,Mazak,Mazák,Mazak,24,Slovakia,SK,1954,2,Male,0,0,0,0,1,Former AG,1,0,2006-10-07,2012-10-08,,,,,,,2006-10-07,2012-10-08
-2403,Juraj Schwarcz,Juraj,Schwarcz,Schwarcz,Schwarcz,Schwarcz,24,Slovakia,SK,1952,2,Male,0,0,1,0,0,Current GC judge,1,0,2009-10-07,Present,,,2009-10-07,Present,,,,
-,Miroslav Gavalec,Miroslav,Gavalec,Gavalec,Gavalec,Gavalec,24,Slovakia,SK,1961,2,Male,0,1,0,0,0,Current CJ judge,1,0,2021-10-07,Present,2021-10-07,Present,,,,,,
-2501,Marko Ilešič,Marko,Ilešič,Ilesic,Ilešič,Ilesic,25,Slovenia,SI,1947,2,Male,0,1,0,0,0,Current CJ judge,1,0,2004-05-01,Present,2004-05-01,Present,,,,,,
-2502,Verica Trstenjak,Verica,Trstenjak,Trstenjak,Trstenjak,Trstenjak,25,Slovenia,SI,1962,2,Male,0,0,1,0,1,Former GC judge; Former AG,2,0,2004-07-01,2012-11-28,,,2004-07-01,2006-10-06,,,2006-10-07,2012-11-28
-2503,Miro Prek,Miro,Prek,Prek,Prek,Prek,25,Slovenia,SI,1956,2,Male,0,0,1,0,0,Former GC judge,1,0,2006-10-06,2019-09-26,,,2006-10-06,2019-09-26,,,,
-,Maja Brkan,Maja,Brkan,Brkan,Brkan,Brkan,25,Slovenia,SI,1979,1,Female,1,0,1,0,0,Current GC judge,1,0,2021-07-06,Present,,,2021-07-06,Present,,,,
-301,Alexander Arabadjiev,Alexander,Arabadjiev,Arabadjiev,Arabadjiev,Arabadjiev,26,Bulgaria,BG,1949,2,Male,0,1,0,0,0,Current CJ judge,1,0,2007-01-01,Present,2007-01-01,Present,,,,,,
-302,Teodor Tchipev,Teodor,Tchipev,Tchipev,Tchipev,Tchipev,26,Bulgaria,BG,1940,2,Male,0,0,1,0,0,Former GC judge,1,0,2007-09-01,2011-09-12,,,2007-09-01,2011-09-12,,,,
-303,Mariyana Kancheva,Mariyana,Kancheva,Kancheva,Kancheva,Kancheva,26,Bulgaria,BG,1958,1,Female,1,0,1,0,0,Current GC judge,1,0,2011-09-12,Present,,,2011-09-12,Present,,,,
-304,Alexander Kornezov,Alexander,Kornezov,Kornezov,Kornezov,Kornezov,26,Bulgaria,BG,1978,2,Male,0,0,1,1,0,Current GC judge; Former CST judge,2,0,2016-04-13,Present,,,2016-09-01,Present,2016-04-13,2016-08-31,,
-305,Evgeni Tanchev,Evgeni,Tanchev,Tanchev,Tanchev,Tanchev,26,Bulgaria,BG,1952,2,Male,0,0,0,0,1,Former AG,1,0,2016-09-19,2021-10-07,,,,,,,2016-09-19,2021-10-07
-2302,Valeriu Ciucă,Valeriu,Ciucă,Ciuca,Ciucă,Ciuca,27,Romania,RO,1960,2,Male,0,0,1,0,0,Former GC judge,1,0,2007-01-01,2010-11-26,,,2007-01-01,2010-11-26,,,,
-2301,Camelia Toader,Camelia,Toader,Toader,Toader,Toader,27,Romania,RO,1963,1,Female,1,1,0,0,0,Former CJ judge,1,0,2007-01-12,2021-10-07,2007-01-12,2021-10-07,,,,,,
-2303,Andrei Popescu,Andrei,Popescu,Popescu,Popescu,Popescu,27,Romania,RO,1948,2,Male,0,0,1,0,0,Former GC judge,1,0,2010-11-26,2016-08-31,,,2010-11-26,2016-08-31,,,,
-2304,Octavia Spineanu-Matei,Octavia,Spineanu-Matei,Spineanu-Matei,Spineanu-Matei,Spineanu-Matei,27,Romania,RO,1967,1,Female,1,1,1,0,0,Current CJ judge; Former GC judge,2,0,2016-09-19,Present,2021-10-07,Present,2016-09-19,2021-10-07,,,,
-2305,Mirela Stancu,Mirela,Stancu,Stancu,Stancu,Stancu,27,Romania,RO,1974,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-09-01,Present,,,2019-09-01,Present,,,,
-401,Siniša Rodin,Siniša,Rodin,Rodin,Rodin,Rodin,28,Croatia,HR,1965,2,Male,0,1,0,0,0,Current CJ judge,1,0,2013-07-01,Present,2013-07-01,Present,,,,,,
-402,Vesna Tomljenović,Vesna,Tomljenović,Tomljenovic,Tomljenović,Tomljenovic,28,Croatia,HR,1956,1,Female,1,0,1,0,0,Current GC judge,1,0,2013-07-01,Present,,,2013-07-01,Present,,,,
-403,Tamara Perišin,Tamara,Perišin,Perisin,Perišin,Perisin,28,Croatia,HR,1979,1,Female,1,0,1,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
-,Tamara Ćapeta,Tamara,Ćapeta,Capeta,Ćapeta,Capeta,28,Croatia,HR,1967,1,Female,1,0,0,0,1,Current AG,1,0,2021-10-07,Present,,,,,,,2021-10-07,Present
+full_name,first_name,last_name,last_name_latin,last_name_label,last_name_latin_label,member_state_id,member_state,member_state_code,birth_year,gender_id,gender,female,judge_court_of_justice,judge_general_court,judge_civil_service_tribunal,advocate_general,registrar_court_of_justice,registrar_general_court,registrar_civil_service_tribunal,current_status,count_positions,nonconsecutive_positions,start_date,end_date,start_date_judge_court_of_justice,end_date_judge_court_of_justice,start_date_judge_general_court,end_date_judge_general_court,start_date_judge_civil_service_tribunal,end_date_judge_civil_service_tribunal,start_date_advocate_general,end_date_advocate_general
+Geert De Baere,Geert,De Baere,De Baere,De Baere,De Baere,1,Belgium,BE,1979,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2017-10-04,Present,,,2017-10-04,Present,,,,
+Franklin Dehousse,Franklin,Dehousse,Dehousse,Dehousse,Dehousse,1,Belgium,BE,1959,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2003-10-07,2016-08-31,,,2003-10-07,2016-08-31,,,,
+Louis Delvaux,Louis,Delvaux,Delvaux,Delvaux,Delvaux,1,Belgium,BE,1895,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-07,1952-12-04,1958-10-07,,,,,,
+René Joliet,René,Joliet,Joliet,Joliet,Joliet,1,Belgium,BE,1938,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1984-04-10,1995-07-15,1984-04-10,1995-07-15,,,,,,
+Koen Lenaerts,Koen,Lenaerts,Lenaerts,Lenaerts,Lenaerts,1,Belgium,BE,1954,2,Male,0,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,1989-09-25,Present,2003-10-07,Present,1989-09-25,2003-10-06,,,,
+Josse Mertens de Wilmars,Josse,Mertens de Wilmars,Mertens de Wilmars,Mertens de Wilmars,Mertens de Wilmars,1,Belgium,BE,1912,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1967-10-09,1984-04-10,1967-10-09,1984-04-10,,,,,,
+Paul Nihoul,Paul,Nihoul,Nihoul,Nihoul,Nihoul,1,Belgium,BE,1963,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-09-01,Present,,,2016-09-01,Present,,,,
+Walter Van Gerven,Walter,Van Gerven,Van Gerven,Van Gerven,Van Gerven,1,Belgium,BE,1935,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1988-10-07,1994-10-06,,,,,,,1988-10-07,1994-10-06
+Albert Van Houtte,Albert,Van Houtte,Van Houtte,Van Houtte,Van Houtte,1,Belgium,BE,1914,2,Male,0,0,0,0,0,1,0,0,Formare CJ registrar,1,0,1953-03-26,1982-02-09,,,,,,,,
+Sean Van Raepenbusch,Sean,Van Raepenbusch,Van Raepenbusch,Van Raepenbusch,Van Raepenbusch,1,Belgium,BE,1956,2,Male,0,0,0,1,0,0,0,0,Former CST judge,1,0,2005-10-06,2016-08-31,,,,,2005-10-06,2016-08-31,,
+Melchior Wathelet,Melchior,Wathelet,Wathelet,Wathelet,Wathelet,1,Belgium,BE,1949,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,1,1995-09-08,2018-10-08,1995-09-08,2003-10-06,,,,,2012-10-08,2018-10-08
+Jacques Biancarelli,Jacques,Biancarelli,Biancarelli,Biancarelli,Biancarelli,2,France,FR,1948,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,1995-08-31,,,1989-09-01,1995-08-31,,,,
+Jean-Claude Bonichot,Jean-Claude,Bonichot,Bonichot,Bonichot,Bonichot,2,France,FR,1955,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2006-10-07,Present,2006-10-07,Present,,,,,,
+Yves Bot,Yves,Bot,Bot,Bot,Bot,2,France,FR,1947,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2006-10-07,2019-06-09,,,,,,,2006-10-07,2019-06-09
+Emmanuel Coulon,Emmanuel,Coulon,Coulon,Coulon,Coulon,2,France,FR,1968,2,Male,0,0,0,0,0,0,1,0,Current GC registrar,1,0,2005-10-06,Present,,,,,,,,
+Marco Darmon,Marco,Darmon,Darmon,Darmon,Darmon,2,France,FR,1930,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1984-02-13,1994-10-06,,,,,,,1984-02-13,1994-10-06
+Jean Richard de la Tour,Jean Richard,de la Tour,de la Tour,de la Tour,de la Tour,2,France,FR,1959,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2020-03-23,Present,,,,,,,2020-03-23,Present
+Alain Louis Dutheillet de Lamothe,Alain Louis,Dutheillet de Lamothe,Dutheillet de Lamothe,Dutheillet de Lamothe,Dutheillet de Lamothe,2,France,FR,1919,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1970-10-07,1972-01-02,,,,,,,1970-10-07,1972-01-02
+Yves Galmot,Yves,Galmot,Galmot,Galmot,Galmot,2,France,FR,1931,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1982-10-07,1988-10-06,1982-10-07,1988-10-06,,,,,,
+Joseph Gand,Joseph,Gand,Gand,Gand,Gand,2,France,FR,1913,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1964-10-08,1970-10-06,,,,,,,1964-10-08,1970-10-06
+Stéphane Gervasoni,Stéphane,Gervasoni,Gervasoni,Gervasoni,Gervasoni,2,France,FR,1967,2,Male,0,0,1,1,0,0,0,0,Current GC judge; Former CST judge,2,1,2005-10-01,Present,,,2013-09-01,Present,2005-10-01,2011-09-30,,
+Jean-Guy Giraud,Jean-Guy,Giraud,Giraud,Giraud,Giraud,2,France,FR,1944,2,Male,0,0,0,0,0,1,0,0,Formare CJ registrar,1,0,1988-02-10,1994-02-09,,,,,,,,
+Roger Grass,Roger,Grass,Grass,Grass,Grass,2,France,FR,1948,2,Male,0,0,0,0,0,1,0,0,Formare CJ registrar,1,0,1994-02-10,2010-10-05,,,,,,,,
+Fernand Grévisse,Fernand,Grévisse,Grevisse,Grévisse,Grevisse,2,France,FR,1924,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,1,1981-04-01,1994-10-06,1981-04-01,1994-10-06,,,,,,
+Maurice Lagrange,Maurice,Lagrange,Lagrange,Lagrange,Lagrange,2,France,FR,1900,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1952-12-04,1964-10-08,,,,,,,1952-12-04,1964-10-08
+Robert Lecourt,Robert,Lecourt,Lecourt,Lecourt,Lecourt,2,France,FR,1908,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1962-05-18,1976-10-06,1962-05-18,1976-10-06,,,,,,
+Hubert Legal,Hubert,Legal,Legal,Legal,Legal,2,France,FR,1954,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2001-09-01,2007-08-31,,,2001-09-01,2007-08-31,,,,
+Philippe Léger,Philippe,Léger,Leger,Léger,Leger,2,France,FR,1938,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1994-10-07,2006-10-06,,,,,,,1994-10-07,2006-10-06
+Henri Mayras,Henri,Mayras,Mayras,Mayras,Mayras,2,France,FR,1920,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1972-03-22,1981-03-18,,,,,,,1972-03-22,1981-03-18
+André Potocki,André,Potocki,Potocki,Potocki,Potocki,2,France,FR,1950,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1995-09-01,2001-08-31,,,1995-09-01,2001-08-31,,,,
+Jean-Pierre Puissochet,Jean-Pierre,Puissochet,Puissochet,Puissochet,Puissochet,2,France,FR,1936,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1994-10-07,2006-10-06,1994-10-07,2006-10-06,,,,,,
+Simone Rozès,Simone,Rozès,Rozes,Rozès,Rozes,2,France,FR,1920,1,Female,1,0,0,0,1,0,0,0,Former AG,1,0,1981-03-18,1984-02-13,,,,,,,1981-03-18,1984-02-13
+Jacques Rueff,Jacques,Rueff,Rueff,Rueff,Rueff,2,France,FR,1896,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1962-05-18,1952-12-04,1962-05-18,,,,,,
+Adolphe Touffait,Adolphe,Touffait,Touffait,Touffait,Touffait,2,France,FR,1907,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1976-10-14,1982-10-06,1976-10-14,1982-10-06,,,,,,
+Laurent Truchot,Laurent,Truchot,Truchot,Truchot,Truchot,2,France,FR,1962,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,1,2007-09-01,Present,,,2007-09-01,Present,,,,
+Siegbert Alber,Siegbert,Alber,Alber,Alber,Alber,3,Germany,DE,1936,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1997-10-07,2003-10-06,,,,,,,1997-10-07,2003-10-06
+Kai Bahlmann,Kai,Bahlmann,Bahlmann,Bahlmann,Bahlmann,3,Germany,DE,1927,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1982-10-07,1988-10-06,1982-10-07,1988-10-06,,,,,,
+Ninon Colneric,Ninon,Colneric,Colneric,Colneric,Colneric,3,Germany,DE,1948,1,Female,1,1,0,0,0,0,0,0,Former CJ judge,1,0,2000-07-15,2006-10-06,2000-07-15,2006-10-06,,,,,,
+Alfred Dittrich,Alfred,Dittrich,Dittrich,Dittrich,Dittrich,3,Germany,DE,1950,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2007-09-01,2019-09-26,,,2007-09-01,2019-09-26,,,,
+Ulrich Everling,Ulrich,Everling,Everling,Everling,Everling,3,Germany,DE,1925,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1980-10-30,1988-10-06,1980-10-30,1988-10-06,,,,,,
+Waltraud Hakenberg,Waltraud,Hakenberg,Hakenberg,Hakenberg,Hakenberg,3,Germany,DE,1955,1,Female,1,0,0,0,0,0,0,1,Former CST registrar,1,0,2005-11-30,2016-08-31,,,,,,,,
+Günter Hirsch,Günter,Hirsch,Hirsch,Hirsch,Hirsch,3,Germany,DE,1943,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1994-10-07,2000-07-14,1994-10-07,2000-07-14,,,,,,
+Hans Jung,Hans,Jung,Jung,Jung,Jung,3,Germany,DE,1944,2,Male,0,0,0,0,0,0,1,0,Former GC registrar,1,0,1989-10-10,2005-10-05,,,,,,,,
+Heinrich Kirschner,Heinrich,Kirschner,Kirschner,Kirschner,Kirschner,3,Germany,DE,1938,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,1997-02-06,,,1989-09-01,1997-02-06,,,,
+Juliane Kokott,Juliane,Kokott,Kokott,Kokott,Kokott,3,Germany,DE,1957,1,Female,1,0,0,0,1,0,0,0,Current AG,1,0,2003-10-07,Present,,,,,,,2003-10-07,Present
+Horstpeter Kreppel,Horstpeter,Kreppel,Kreppel,Kreppel,Kreppel,3,Germany,DE,1945,2,Male,0,0,0,1,0,0,0,0,Former CST judge,1,0,2005-10-06,2016-04-13,,,,,2005-10-06,2016-04-13,,
+Hans Kutscher,Hans,Kutscher,Kutscher,Kutscher,Kutscher,3,Germany,DE,1911,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1970-10-07,1980-10-30,1970-10-07,1980-10-30,,,,,,
+Johannes Christoph Laitenberger,Johannes Christoph,Laitenberger,Laitenberger,Laitenberger,Laitenberger,3,Germany,DE,1964,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Carl Otto Lenz,Carl Otto,Lenz,Lenz,Lenz,Lenz,3,Germany,DE,1930,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1984-01-11,1997-10-06,,,,,,,1984-01-11,1997-10-06
+Jörg Pirrung,Jörg,Pirrung,Pirrung,Pirrung,Pirrung,3,Germany,DE,1940,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1997-06-11,2007-08-31,,,1997-06-11,2007-08-31,,,,
+Gerhard Reischl,Gerhard,Reischl,Reischl,Reischl,Reischl,3,Germany,DE,1918,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1973-10-09,1984-01-11,,,,,,,1973-10-09,1984-01-11
+Otto Riese,Otto,Riese,Riese,Riese,Riese,3,Germany,DE,1894,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1963-01-24,1952-12-04,1963-01-24,,,,,,
+Karl Roemer,Karl,Roemer,Roemer,Roemer,Roemer,3,Germany,DE,1899,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1953-10-01,1973-10-01,,,,,,,1953-10-01,1973-10-01
+Gabriele Steinfatt,Gabriele,Steinfatt,Steinfatt,Steinfatt,Steinfatt,3,Germany,DE,1977,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Walter Strauss,Walter,Strauss,Strauss,Strauss,Strauss,3,Germany,DE,1900,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1963-02-06,1970-10-06,1963-02-06,1970-10-06,,,,,,
+Thomas von Danwitz,Thomas,von Danwitz,von Danwitz,von Danwitz,von Danwitz,3,Germany,DE,1962,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2006-10-07,Present,2006-10-07,Present,,,,,,
+Manfred Zuleeg,Manfred,Zuleeg,Zuleeg,Zuleeg,Zuleeg,3,Germany,DE,1935,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1988-10-07,1994-10-06,1988-10-07,1994-10-06,,,,,,
+Guido Berardis,Guido,Berardis,Berardis,Berardis,Berardis,4,Italy,IT,1950,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2012-09-07,2019-09-26,,,2012-09-07,2019-09-26,,,,
+Giacinto Bosco,Giacinto,Bosco,Bosco,Bosco,Bosco,4,Italy,IT,1905,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1976-10-07,1988-10-06,1976-10-07,1988-10-06,,,,,,
+Francesco Capotorti,Francesco,Capotorti,Capotorti,Capotorti,Capotorti,4,Italy,IT,1925,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,0,1976-01-20,1982-10-06,1976-01-20,1976-10-06,,,,,1976-10-07,1982-10-06
+Nicola Catalano,Nicola,Catalano,Catalano,Catalano,Catalano,4,Italy,IT,1910,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1958-10-07,1962-01-01,1958-10-07,1962-01-01,,,,,,
+Antonio Mario La Pergola,Antonio Mario,La Pergola,La Pergola,La Pergola,La Pergola,4,Italy,IT,1931,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,1,1994-10-07,2006-05-03,1994-10-07,2006-05-03,,,,,1995-01-01,1999-12-14
+Giuseppe Federico Mancini,Giuseppe Federico,Mancini,Mancini,Mancini,Mancini,4,Italy,IT,1927,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,0,1982-10-07,1999-07-21,1988-10-07,1999-07-21,,,,,1982-10-07,1988-10-06
+Roberto Mastroianni,Roberto,Mastroianni,Mastroianni,Mastroianni,Mastroianni,4,Italy,IT,1964,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Paolo Mengozzi,Paolo,Mengozzi,Mengozzi,Mengozzi,Mengozzi,4,Italy,IT,1938,2,Male,0,0,1,0,1,0,0,0,Former GC judge; Former AG,2,0,1998-03-04,2018-10-08,,,1998-03-04,2006-05-03,,,2006-05-04,2018-10-08
+Enzo Moavero Milanesi,Enzo,Moavero Milanesi,Moavero Milanesi,Moavero Milanesi,Moavero Milanesi,4,Italy,IT,1954,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2006-05-03,2011-11-15,,,2006-05-03,2011-11-15,,,,
+Riccardo Monaco,Riccardo,Monaco,Monaco,Monaco,Monaco,4,Italy,IT,1909,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1964-10-08,1975-10-07,1964-10-08,1975-10-07,,,,,,
+Ezio Perillo,Ezio,Perillo,Perillo,Perillo,Perillo,4,Italy,IT,1950,2,Male,0,0,1,1,0,0,0,0,Former GC judge; Former CST judge,2,0,2011-10-06,2016-09-19,,,2016-09-19,2019-09-26,2011-10-06,2016-08-31,,
+Massimo Pilotti,Massimo,Pilotti,Pilotti,Pilotti,Pilotti,4,Italy,IT,1879,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-06,1952-12-04,1958-10-06,,,,,,
+Giovanni Pitruzzella,Giovanni,Pitruzzella,Pitruzzella,Pitruzzella,Pitruzzella,4,Italy,IT,1959,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2018-10-08,Present,,,,,,,2018-10-08,Present
+Ornella Porchia,Ornella,Porchia,Porchia,Porchia,Porchia,4,Italy,IT,1966,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Lucia Serena Rossi,Lucia Serena,Rossi,Rossi,"Rossi, L.","Rossi, L.",4,Italy,IT,1958,1,Female,1,1,0,0,0,0,0,0,Current CJ judge,1,0,2018-10-08,Present,2018-10-08,Present,,,,,,
+Rino Rossi,Rino,Rossi,Rossi,"Rossi, R.","Rossi, R.",4,Italy,IT,1889,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1958-10-07,1964-10-06,1958-10-07,1964-10-06,,,,,,
+Antonio Saggio,Antonio,Saggio,Saggio,Saggio,Saggio,4,Italy,IT,1934,2,Male,0,0,1,0,1,0,0,0,Former GC judge; Former AG,2,0,1989-09-01,2000-10-06,,,1989-09-01,1998-03-04,,,1998-03-05,2000-10-06
+Giuseppe Tesauro,Giuseppe,Tesauro,Tesauro,Tesauro,Tesauro,4,Italy,IT,1942,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1988-10-07,1998-03-04,,,,,,,1988-10-07,1998-03-04
+Antonio Tizzano,Antonio,Tizzano,Tizzano,Tizzano,Tizzano,4,Italy,IT,1940,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,0,2000-10-07,2018-10-08,2006-05-04,2018-10-08,,,,,2000-10-07,2006-05-03
+Alberto Trabucchi,Alberto,Trabucchi,Trabucchi,Trabucchi,Trabucchi,4,Italy,IT,1907,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,0,1962-03-08,1976-10-06,1962-03-08,1972-12-12,,,,,1973-01-09,1976-10-06
+François Biltgen,François,Biltgen,Biltgen,Biltgen,Biltgen,5,Luxembourg,LU,1958,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2013-10-06,Present,2013-10-06,Present,,,,,,
+Charles Léon Hammes,Charles Léon,Hammes,Hammes,Hammes,Hammes,5,Luxembourg,LU,1898,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1967-10-09,1952-12-04,1967-10-09,,,,,,
+Marc Jaeger,Marc,Jaeger,Jaeger,Jaeger,Jaeger,5,Luxembourg,LU,1954,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,1996-07-11,Present,,,1996-07-11,Present,,,,
+Jean-Jacques Kasel,Jean-Jacques,Kasel,Kasel,Kasel,Kasel,5,Luxembourg,LU,1946,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2008-01-15,2013-10-06,2008-01-15,2013-10-06,,,,,,
+Jean Mischo,Jean,Mischo,Mischo,Mischo,Mischo,5,Luxembourg,LU,1938,2,Male,0,0,0,0,1,0,0,0,Former AG,1,1,1986-01-13,2003-10-06,,,,,,,1986-01-13,2003-10-06
+Pierre Pescatore,Pierre,Pescatore,Pescatore,Pescatore,Pescatore,5,Luxembourg,LU,1919,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1967-10-09,1985-10-06,1967-10-09,1985-10-06,,,,,,
+Romain Schintgen,Romain,Schintgen,Schintgen,Schintgen,Schintgen,5,Luxembourg,LU,1939,2,Male,0,1,1,0,0,0,0,0,Former CJ judge; Former GC judge,2,0,1989-09-25,2008-01-14,1996-07-12,2008-01-14,1989-09-25,1996-07-11,,,,
+Fernand Schockweiler,Fernand,Schockweiler,Schockweiler,Schockweiler,Schockweiler,5,Luxembourg,LU,1935,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1985-10-07,1996-06-01,1985-10-07,1996-06-01,,,,,,
+Dean Spielmann,Dean,Spielmann,Spielmann,Spielmann,Spielmann,5,Luxembourg,LU,1962,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
+René Barents,René,Barents,Barents,Barents,Barents,6,Netherlands,NL,1951,2,Male,0,0,1,1,0,0,0,0,Current GC judge; Former CST judge,2,0,2011-10-06,Present,,,2016-09-01,Present,2011-10-06,2016-08-31,,
+Cornelis Paulus Briët,Cornelis Paulus,Briët,Briet,Briët,Briet,6,Netherlands,NL,1944,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,1998-08-31,,,1989-09-01,1998-08-31,,,,
+Andreas Matthias Donner,Andreas Matthias,Donner,Donner,Donner,Donner,6,Netherlands,NL,1918,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1958-10-07,1979-04-01,1958-10-07,1979-04-01,,,,,,
+Leendert Adrie Geelhoed,Leendert Adrie,Geelhoed,Geelhoed,Geelhoed,Geelhoed,6,Netherlands,NL,1942,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2000-10-07,2006-10-06,,,,,,,2000-10-07,2006-10-06
+Paul Joan George Kapteyn,Paul Joan George,Kapteyn,Kapteyn,Kapteyn,Kapteyn,6,Netherlands,NL,1928,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1990-03-29,2000-10-06,1990-03-29,2000-10-06,,,,,,
+Thymen Koopmans,Thymen,Koopmans,Koopmans,Koopmans,Koopmans,6,Netherlands,NL,1929,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1979-04-01,1990-03-29,1979-04-01,1990-03-29,,,,,,
+Arjen Meij,Arjen,Meij,Meij,Meij,Meij,6,Netherlands,NL,1944,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1992-09-01,2010-08-31,,,1992-09-01,2010-08-31,,,,
+Alexandra Prechal,Alexandra,Prechal,Prechal,Prechal,Prechal,6,Netherlands,NL,1959,1,Female,1,1,0,0,0,0,0,0,Current CJ judge,1,0,2010-07-10,Present,2010-07-10,Present,,,,,,
+Petrus Serrarens,Petrus,Serrarens,Serrarens,Serrarens,Serrarens,6,Netherlands,NL,1888,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-06,1952-12-04,1958-10-06,,,,,,
+Christiaan Willem Anton Timmermans,Christiaan Willem Anton,Timmermans,Timmermans,Timmermans,Timmermans,6,Netherlands,NL,1941,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2000-10-07,2010-07-10,2000-10-07,2010-07-10,,,,,,
+Marc van der Woude,Marc,van der Woude,van der Woude,van der Woude,van der Woude,6,Netherlands,NL,1960,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2010-09-01,Present,,,2010-09-01,Present,,,,
+Adrianus van Kleffens,Adrianus,van Kleffens,van Kleffens,van Kleffens,van Kleffens,6,Netherlands,NL,1899,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1952-12-04,1958-10-06,1952-12-04,1958-10-06,,,,,,
+Pieter verLoren van Themaat,Pieter,verLoren van Themaat,verLoren van Themaat,verLoren van Themaat,verLoren van Themaat,6,Netherlands,NL,1916,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1981-06-04,1986-01-13,,,,,,,1981-06-04,1986-01-13
+Lars Bay Larsen,Lars,Bay Larsen,Bay Larsen,Bay Larsen,Bay Larsen,7,Denmark,DK,1953,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2006-01-11,Present,2006-01-11,Present,,,,,,
+Ole Due,Ole,Due,Due,Due,Due,7,Denmark,DK,1931,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1979-10-07,1994-10-06,1979-10-07,1994-10-06,,,,,,
+Michael Bendik Elmer,Michael Bendik,Elmer,Elmer,Elmer,Elmer,7,Denmark,DK,1949,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1994-10-07,1997-12-18,,,,,,,1994-10-07,1997-12-18
+Sten Frimodt Nielsen,Sten,Frimodt Nielsen,Frimodt Nielsen,Frimodt Nielsen,Frimodt Nielsen,7,Denmark,DK,1963,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2007-09-17,Present,,,2007-09-17,Present,,,,
+Claus Christian Gulmann,Claus Christian,Gulmann,Gulmann,Gulmann,Gulmann,7,Denmark,DK,1942,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,0,1991-10-07,2006-01-10,1994-10-07,2006-01-10,,,,,1991-10-07,1994-10-06
+Henrik Saugmandsgaard Øe,Henrik,Saugmandsgaard Øe,Saugmandsgaard Oe,Saugmandsgaard Øe,Saugmandsgaard Oe,7,Denmark,DK,1964,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2015-10-07,2021-10-07,,,,,,,2015-10-07,2021-10-07
+Max Sørensen,Max,Sørensen,Sorensen,Sørensen,Sorensen,7,Denmark,DK,1913,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1973-01-01,1979-10-06,1973-01-01,1979-10-06,,,,,,
+Jesper Svenningsen,Jesper,Svenningsen,Svenningsen,Svenningsen,Svenningsen,7,Denmark,DK,1966,2,Male,0,0,1,1,0,0,0,0,Current GC judge; Former CST judge,2,0,2013-10-07,Present,,,2016-09-01,Present,2013-10-07,2016-08-31,,
+Bo Vesterdorf,Bo,Vesterdorf,Vesterdorf,Vesterdorf,Vesterdorf,7,Denmark,DK,1945,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,2007-09-17,,,1989-09-01,2007-09-17,,,,
+Donal Patrick Michael Barrington,Donal Patrick Michael,Barrington,Barrington,Barrington,Barrington,8,Ireland,IE,1928,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,1996-01-10,,,1989-09-01,1996-01-10,,,,
+Kieran Bradley,Kieran,Bradley,Bradley,Bradley,Bradley,8,Ireland,IE,1957,2,Male,0,0,0,1,0,0,0,0,Former CST judge,1,0,2011-10-06,2016-08-31,,,,,2011-10-06,2016-08-31,,
+Anthony Michael Collins,Anthony Michael,Collins,Collins,Collins,Collins,8,Ireland,IE,1960,2,Male,0,0,1,0,1,0,0,0,Current AG; Former GC judge,2,0,2013-09-16,Present,,,2013-09-16,2021-10-07,,,2021-10-07,Present
+John Cooke,John,Cooke,Cooke,Cooke,Cooke,8,Ireland,IE,1944,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1996-01-10,2008-09-15,,,1996-01-10,2008-09-15,,,,
+Nial Fennelly,Nial,Fennelly,Fennelly,Fennelly,Fennelly,8,Ireland,IE,1942,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1995-01-19,2000-10-06,,,,,,,1995-01-19,2000-10-06
+Gerard Hogan,Gerard,Hogan,Hogan,Hogan,Hogan,8,Ireland,IE,1958,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2018-10-08,2021-10-07,,,,,,,2018-10-08,2021-10-07
+Suzanne Kingston,Suzanne,Kingston,Kingston,Kingston,Kingston,8,Ireland,IE,1977,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2022-01-13,Present,,,2022-01-13,Present,,,,
+Colm Mac Eochaidh,Colm,Mac Eochaidh,Mac Eochaidh,Mac Eochaidh,Mac Eochaidh,8,Ireland,IE,1963,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2017-06-08,Present,,,2017-06-08,Present,,,,
+John Murray,John,Murray,Murray,Murray,Murray,8,Ireland,IE,1943,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1991-10-07,1999-10-09,1991-10-07,1999-10-09,,,,,,
+Aindrias Ó Caoimh,Aindrias,Ó Caoimh,O Caoimh,Ó Caoimh,O Caoimh,8,Ireland,IE,1950,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-10-13,2015-10-06,2004-10-13,2015-10-06,,,,,,
+Cearbhall O'Dalaigh,Cearbhall,O'Dalaigh,O'Dalaigh,O'Dalaigh,O'Dalaigh,8,Ireland,IE,1911,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1973-01-01,1974-12-12,1973-01-01,1974-12-12,,,,,,
+Kevin O'Higgins,Kevin,O'Higgins,O'Higgins,"O'Higgins, K.","O'Higgins, K.",8,Ireland,IE,1946,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2008-09-15,2013-08-31,,,2008-09-15,2013-08-31,,,,
+Thomas Francis O'Higgins,Thomas Francis,O'Higgins,O'Higgins,"O'Higgins, T.","O'Higgins, T.",8,Ireland,IE,1913,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1985-01-16,1991-10-06,1985-01-16,1991-10-06,,,,,,
+Andreas O'Keeffe,Andreas,O'Keeffe,O'Keeffe,O'Keeffe,O'Keeffe,8,Ireland,IE,1912,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1975-12-12,1984-12-31,1975-12-12,1984-12-31,,,,,,
+Fidelma O'Kelly Macken,Fidelma,O'Kelly Macken,O'Kelly Macken,O'Kelly Macken,O'Kelly Macken,8,Ireland,IE,1942,1,Female,1,1,0,0,0,0,0,0,Former CJ judge,1,0,1999-10-06,2004-10-13,1999-10-06,2004-10-13,,,,,,
+Eugene Regan,Eugene,Regan,Regan,Regan,Regan,8,Ireland,IE,1952,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2015-10-07,Present,2015-10-07,Present,,,,,,
+Christopher William Bellamy,Christopher William,Bellamy,Bellamy,Bellamy,Bellamy,9,United Kingdom,UK,1946,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1992-03-10,1999-12-15,,,1992-03-10,1999-12-15,,,,
+David Alexander Ogilvy Edward,David Alexander Ogilvy,Edward,Edward,Edward,Edward,9,United Kingdom,UK,1934,2,Male,0,1,1,0,0,0,0,0,Former CJ judge; Former GC judge,2,0,1989-09-25,2004-01-07,1992-03-10,2004-01-07,1989-09-25,1992-03-09,,,,
+Ian Stewart Forrester,Ian Stewart,Forrester,Forrester,Forrester,Forrester,9,United Kingdom,UK,1945,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2015-10-01,2020-01-31,,,2015-10-01,2020-01-31,,,,
+Nicholas James Forwood,Nicholas James,Forwood,Forwood,Forwood,Forwood,9,United Kingdom,UK,1948,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1999-12-02,2015-10-01,,,1999-12-02,2015-10-01,,,,
+Paul Heim,Paul,Heim,Heim,Heim,Heim,9,United Kingdom,UK,1932,2,Male,0,0,0,0,0,1,0,0,Formare CJ registrar,1,0,1982-02-10,1988-02-09,,,,,,,,
+Francis Geoffrey Jacobs,Francis Geoffrey,Jacobs,Jacobs,Jacobs,Jacobs,9,United Kingdom,UK,1939,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1988-10-07,2006-01-10,,,,,,,1988-10-07,2006-01-10
+Alexander Mackenzie Stuart,Alexander,Mackenzie Stuart,Mackenzie Stuart,Mackenzie Stuart,Mackenzie Stuart,9,United Kingdom,UK,1924,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1973-01-01,1988-10-06,1973-01-01,1988-10-06,,,,,,
+Paul John Mahoney,Paul John,Mahoney,Mahoney,Mahoney,Mahoney,9,United Kingdom,UK,1946,2,Male,0,0,0,1,0,0,0,0,Former CST judge,1,0,2005-10-06,2011-10-06,,,,,2005-10-06,2011-10-06,,
+Konrad Hermann Theodor Schiemann,Konrad Hermann Theodor,Schiemann,Schiemann,Schiemann,Schiemann,9,United Kingdom,UK,1937,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-01-01,2012-10-06,2004-01-01,2012-10-06,,,,,,
+Eleanor Sharpston,Eleanor,Sharpston,Sharpston,Sharpston,Sharpston,9,United Kingdom,UK,1955,1,Female,1,0,0,0,1,0,0,0,Former AG,1,0,2006-01-11,2020-09-10,,,,,,,2006-01-11,2020-09-10
+Gordon Slynn,Gordon,Slynn,Slynn,Slynn,Slynn,9,United Kingdom,UK,1930,2,Male,0,1,0,0,1,0,0,0,Former CJ judge; Former AG,2,0,1981-02-26,1992-03-10,1988-10-07,1992-03-10,,,,,1981-02-26,1988-10-06
+Christopher Vajda,Christopher,Vajda,Vajda,Vajda,Vajda,9,United Kingdom,UK,1955,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2012-10-07,2020-01-31,2012-10-07,2020-01-31,,,,,,
+Jean-Pierre Warner,Jean-Pierre,Warner,Warner,Warner,Warner,9,United Kingdom,UK,1924,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1973-01-09,1981-02-26,,,,,,,1973-01-09,1981-02-26
+Alexandros Chloros,Alexandros,Chloros,Chloros,Chloros,Chloros,10,Greece,EL,1926,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1981-01-01,1982-11-16,1981-01-01,1982-11-16,,,,,,
+Georges Cosmas,Georges,Cosmas,Cosmas,Cosmas,Cosmas,10,Greece,EL,1932,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1994-10-07,2000-10-06,,,,,,,1994-10-07,2000-10-06
+Ioannis Dimitrakopoulos,Ioannis,Dimitrakopoulos,Dimitrakopoulos,Dimitrakopoulos,Dimitrakopoulos,10,Greece,EL,1971,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2022-01-13,Present,,,2022-01-13,Present,,,,
+Dimitrios Gratsias,Dimitrios,Gratsias,Gratsias,Gratsias,Gratsias,10,Greece,EL,1957,2,Male,0,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,2010-10-25,Present,2021-10-07,Present,2010-10-25,2021-10-07,,,,
+Constantinos Iliopoulos,Constantinos,Iliopoulos,Iliopoulos,Iliopoulos,Iliopoulos,10,Greece,EL,1948,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
+Krateros Ioannou,Krateros,Ioannou,Ioannou,Ioannou,Ioannou,10,Greece,EL,1935,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1997-10-07,1999-03-10,1997-10-07,1999-03-10,,,,,,
+Constantinos Kakouris,Constantinos,Kakouris,Kakouris,Kakouris,Kakouris,10,Greece,EL,1919,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1983-02-16,1997-10-06,1983-02-16,1997-10-06,,,,,,
+Andreas Kalogeropoulos,Andreas,Kalogeropoulos,Kalogeropoulos,Kalogeropoulos,Kalogeropoulos,10,Greece,EL,1944,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1992-09-18,1998-08-31,,,1992-09-18,1998-08-31,,,,
+Athanasios Rantos,Athanasios,Rantos,Rantos,Rantos,Rantos,10,Greece,EL,1953,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2020-09-10,Present,,,,,,,2020-09-10,Present
+Vassilios Skouris,Vassilios,Skouris,Skouris,Skouris,Skouris,10,Greece,EL,1948,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1999-05-26,2015-10-06,1999-05-26,2015-10-06,,,,,,
+Haris Tagaras,Haris,Tagaras,Tagaras,Tagaras,Tagaras,10,Greece,EL,1955,2,Male,0,0,0,1,0,0,0,0,Former CST judge,1,0,2005-10-06,2011-10-06,,,,,2005-10-06,2011-10-06,,
+Michail Vilaras,Michail,Vilaras,Vilaras,Vilaras,Vilaras,10,Greece,EL,1950,2,Male,0,1,1,0,0,0,0,0,Former CJ judge; Former GC judge,2,1,1998-09-01,2021-10-07,2015-10-07,2021-10-07,1998-09-01,2010-09-01,,,,
+Christos Yeraris,Christos,Yeraris,Yeraris,Yeraris,Yeraris,10,Greece,EL,1938,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,1992-08-31,,,1989-09-01,1992-08-31,,,,
+Nuno José Cardoso da Silva Piçarra,Nuno José,Cardoso da Silva Piçarra,Cardoso da Silva Picarra,Cardoso da Silva Piçarra,Cardoso da Silva Picarra,11,Portugal,PT,1957,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2018-10-07,Present,2018-10-07,Present,,,,,,
+Maria José Costeira,Maria José,Costeira,Costeira,Costeira,Costeira,11,Portugal,PT,1967,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2016-09-19,Present,,,2016-09-19,Present,,,,
+José Luis da Cruz Vilaça,José Luis,da Cruz Vilaça,da Cruz Vilaca,da Cruz Vilaça,da Cruz Vilaca,11,Portugal,PT,1944,2,Male,0,1,1,0,1,0,0,0,Former CJ judge; Former GC judge; Former AG,3,1,1986-01-01,2018-10-08,2012-10-08,2018-10-08,1989-09-01,1995-08-31,,,1986-01-01,1988-10-06
+José Narciso da Cunha Rodrigues,José Narciso,da Cunha Rodrigues,da Cunha Rodrigues,da Cunha Rodrigues,da Cunha Rodrigues,11,Portugal,PT,1940,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2000-10-07,2012-10-06,2000-10-07,2012-10-06,,,,,,
+Ricardo da Silva Passos,Ricardo,da Silva Passos,da Silva Passos,da Silva Passos,da Silva Passos,11,Portugal,PT,1953,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-09-19,Present,,,2016-09-19,Present,,,,
+José Carlos de Carvalho Moitinho de Almeida,José Carlos,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,de Carvalho Moitinho de Almeida,11,Portugal,PT,1936,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1986-01-01,2000-10-06,1986-01-01,2000-10-06,,,,,,
+Rui Manuel Gens de Moura Ramos,Rui Manuel,Gens de Moura Ramos,Gens de Moura Ramos,Gens de Moura Ramos,Gens de Moura Ramos,11,Portugal,PT,1950,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1995-09-18,2003-03-31,,,1995-09-18,2003-03-31,,,,
+Maria Eugénia Martins de Nazaré Ribeiro,Maria Eugénia,Martins de Nazaré Ribeiro,Martins de Nazare Ribeiro,Martins de Nazaré Ribeiro,Martins de Nazare Ribeiro,11,Portugal,PT,1956,1,Female,1,0,1,0,0,0,0,0,Former GC judge,1,0,2003-04-01,2016-08-31,,,2003-04-01,2016-08-31,,,,
+Luís Miguel Poiares Pessoa Maduro,Luís Miguel,Poiares Pessoa Maduro,Poiares Pessoa Maduro,Poiares Pessoa Maduro,Poiares Pessoa Maduro,11,Portugal,PT,1967,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2003-10-07,2009-10-06,,,,,,,2003-10-07,2009-10-06
+João Sant'Anna,João,Sant'Anna,Sant'Anna,Sant'Anna,Sant'Anna,11,Portugal,PT,1957,2,Male,0,0,0,1,0,0,0,0,Former CST judge,1,0,2016-04-13,2016-08-31,,,,,2016-04-13,2016-08-31,,
+Alfredo Calot Escobar,Alfredo,Calot Escobar,Calot Escobar,Calot Escobar,Calot Escobar,12,Spain,ES,1961,2,Male,0,0,0,0,0,1,0,0,Current CJ registrar,1,0,2010-10-06,Present,,,,,,,,
+Leopoldo Calvo-Sotelo Ibáñez-Martín,Leopoldo,Calvo-Sotelo Ibáñez-Martín,Calvo-Sotelo Ibanez-Martin,Calvo-Sotelo Ibáñez-Martín,Calvo-Sotelo Ibanez-Martin,12,Spain,ES,1957,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2016-04-13,2019-09-26,,,2016-04-13,2019-09-26,,,,
+Manuel Campos Sánchez-Bordona,Manuel,Campos Sánchez-Bordona,Campos Sanchez-Bordona,Campos Sánchez-Bordona,Campos Sanchez-Bordona,12,Spain,ES,1950,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2015-10-07,Present,,,,,,,2015-10-07,Present
+Pedro Cruz Villalón,Pedro,Cruz Villalón,Cruz Villalon,Cruz Villalón,Cruz Villalon,12,Spain,ES,1946,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2009-12-14,2015-10-07,,,,,,,2009-12-14,2015-10-07
+Manuel Diez de Velasco,Manuel,Diez de Velasco,Diez de Velasco,Diez de Velasco,Diez de Velasco,12,Spain,ES,1926,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1988-10-07,1994-10-06,1988-10-07,1994-10-06,,,,,,
+Rafael García-Valdecasas y Fernández,Rafael,García-Valdecasas y Fernández,Garcia-Valdecasas y Fernandez,García-Valdecasas y Fernández,Garcia-Valdecasas y Fernandez,12,Spain,ES,1946,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1989-09-01,2007-08-31,,,1989-09-01,2007-08-31,,,,
+Maria Lourdes Arastey Sahún,Maria,Lourdes Arastey Sahún,Lourdes Arastey Sahun,Lourdes Arastey Sahún,Lourdes Arastey Sahun,12,Spain,ES,1959,1,Female,1,1,0,0,0,0,0,0,Current CJ judge,1,0,2021-10-07,Present,2021-10-07,Present,,,,,,
+José Martín y Pérez de Nanclares,José,Martín y Pérez de Nanclares,Martin y Perez de Nanclares,Martín y Pérez de Nanclares,Martin y Perez de Nanclares,12,Spain,ES,1965,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Gil Carlos Rodrìguez Iglesias,Gil Carlos,Rodrìguez Iglesias,Rodriguez Iglesias,Rodrìguez Iglesias,Rodriguez Iglesias,12,Spain,ES,1946,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1986-01-01,2003-10-06,1986-01-01,2003-10-06,,,,,,
+Maria Isabel Rofes i Pujol,Maria Isabel,Rofes i Pujol,Rofes i Pujol,Rofes i Pujol,Rofes i Pujol,12,Spain,ES,1956,1,Female,1,0,0,1,0,0,0,0,Former CST judge,1,0,2009-10-07,2016-04-13,,,,,2009-10-07,2016-04-13,,
+Dámaso Ruiz-Jarabo Colomer,Dámaso,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,Ruiz-Jarabo Colomer,12,Spain,ES,1949,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,1995-01-19,2009-11-12,,,,,,,1995-01-19,2009-11-12
+Miguel Sampol Pucurull,Miguel,Sampol Pucurull,Sampol Pucurull,Sampol Pucurull,Sampol Pucurull,12,Spain,ES,1974,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Rosario Silva de Lapuerta,Rosario,Silva de Lapuerta,Silva de Lapuerta,Silva de Lapuerta,Silva de Lapuerta,12,Spain,ES,1954,1,Female,1,1,0,0,0,0,0,0,Former CJ judge,1,0,2003-10-07,2021-10-07,2003-10-07,2021-10-07,,,,,,
+Santiago Soldevila Fragoso,Santiago,Soldevila Fragoso,Soldevila Fragoso,Soldevila Fragoso,Soldevila Fragoso,12,Spain,ES,1960,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2007-09-01,2013-08-31,,,2007-09-01,2013-08-31,,,,
+Ignacio Ulloa Rubio,Ignacio,Ulloa Rubio,Ulloa Rubio,Ulloa Rubio,Ulloa Rubio,12,Spain,ES,1967,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2013-09-01,2019-09-26,,,2013-09-01,2019-09-26,,,,
+Josef Azizi,Josef,Azizi,Azizi,Azizi,Azizi,13,Austria,AT,1948,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,1995-01-01,2013-09-01,,,1995-01-01,2013-09-01,,,,
+Maria Berger,Maria,Berger,Berger,Berger,Berger,13,Austria,AT,1956,1,Female,1,1,0,0,0,0,0,0,Former CJ judge,1,0,2009-10-07,2019-03-20,2009-10-07,2019-03-20,,,,,,
+Gerhard Hesse,Gerhard,Hesse,Hesse,Hesse,Hesse,13,Austria,AT,1970,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Peter Jann,Peter,Jann,Jann,Jann,Jann,13,Austria,AT,1935,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1995-01-01,2009-10-06,1995-01-01,2009-10-06,,,,,,
+Viktor Kreuschitz,Viktor,Kreuschitz,Kreuschitz,Kreuschitz,Kreuschitz,13,Austria,AT,1952,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2013-09-01,Present,,,2013-09-01,Present,,,,
+Andreas Kumin,Andreas,Kumin,Kumin,Kumin,Kumin,13,Austria,AT,1965,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2019-03-20,Present,2019-03-20,Present,,,,,,
+Christine Stix-Hackl,Christine,Stix-Hackl,Stix-Hackl,Stix-Hackl,Stix-Hackl,13,Austria,AT,1957,1,Female,1,0,0,0,1,0,0,0,Former AG,1,0,2000-10-07,2006-10-06,,,,,,,2000-10-07,2006-10-06
+Niilo Jääskinen,Niilo,Jääskinen,Jaaskinen,Jääskinen,Jaaskinen,14,Finland,FI,1958,2,Male,0,1,0,0,1,0,0,0,Current CJ judge; Former AG,2,1,2009-10-07,Present,2019-10-07,Present,,,,,2009-10-07,2015-10-07
+Heikki Kanninen,Heikki,Kanninen,Kanninen,Kanninen,Kanninen,14,Finland,FI,1952,2,Male,0,0,1,1,0,0,0,0,Current GC judge; Former CST judge,2,0,2005-10-06,Present,,,2009-09-01,Present,2005-10-06,2009-10-06,,
+Tuula Riitta Pynnä,Tuula Riitta,Pynnä,Pynna,Pynnä,Pynna,14,Finland,FI,1958,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Allan Rosas,Allan,Rosas,Rosas,Rosas,Rosas,14,Finland,FI,1948,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2002-01-17,2019-10-07,2002-01-17,2019-10-07,,,,,,
+Leif Sevón,Leif,Sevón,Sevon,Sevón,Sevon,14,Finland,FI,1941,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1995-01-01,2002-01-16,1995-01-01,2002-01-16,,,,,,
+Virpi Tiili,Virpi,Tiili,Tiili,Tiili,Tiili,14,Finland,FI,1942,1,Female,1,0,1,0,0,0,0,0,Former GC judge,1,0,1995-01-01,2009-09-01,,,1995-01-01,2009-09-01,,,,
+Carl Gustav Fernlund,Carl Gustav,Fernlund,Fernlund,Fernlund,Fernlund,15,Sweden,SE,1950,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2011-10-06,2019-10-07,2011-10-06,2019-10-07,,,,,,
+Pernilla Lindh,Pernilla,Lindh,Lindh,Lindh,Lindh,15,Sweden,SE,1945,1,Female,1,1,1,0,0,0,0,0,Former CJ judge; Former GC judge,2,0,1995-01-18,2011-10-06,2006-10-07,2011-10-06,1995-01-18,2006-10-06,,,,
+Ulf Christophe Öberg,Ulf Christophe,Öberg,Oberg,Öberg,Oberg,15,Sweden,SE,1966,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-09-19,Present,,,2016-09-19,Present,,,,
+Hans Ragnemalm,Hans,Ragnemalm,Ragnemalm,Ragnemalm,Ragnemalm,15,Sweden,SE,1940,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,1995-01-01,2000-10-06,1995-01-01,2000-10-06,,,,,,
+Fredrik Schalin,Fredrik,Schalin,Schalin,Schalin,Schalin,15,Sweden,SE,1964,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-06-08,Present,,,2016-06-08,Present,,,,
+Stig von Bahr,Stig,von Bahr,von Bahr,von Bahr,von Bahr,15,Sweden,SE,1939,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2000-10-08,2006-10-06,2000-10-08,2006-10-06,,,,,,
+Nils Wahl,Nils,Wahl,Wahl,Wahl,Wahl,15,Sweden,SE,1961,2,Male,0,1,1,0,1,0,0,0,Current CJ judge; Former GC judge; Former AG,3,1,2006-10-06,Present,2019-10-07,Present,2006-10-06,2012-11-28,,,2012-11-28,2019-02-06
+Carl Wetter,Carl,Wetter,Wetter,Wetter,Wetter,15,Sweden,SE,1949,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2013-03-18,2016-09-19,,,2013-03-18,2016-09-19,,,,
+George Arestis,George,Arestis,Arestis,Arestis,Arestis,16,Cyprus,CY,1945,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2014-10-06,2004-05-01,2014-10-06,,,,,,
+Nicholas Emiliou,Nicholas,Emiliou,Emiliou,Emiliou,Emiliou,16,Cyprus,CY,1963,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2021-10-07,Present,,,,,,,2021-10-07,Present
+Constantinos Lycourgos,Constantinos,Lycourgos,Lycourgos,Lycourgos,Lycourgos,16,Cyprus,CY,1964,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2014-10-07,Present,2014-10-07,Present,,,,,,
+Anna Marcoulli,Anna,Marcoulli,Marcoulli,Marcoulli,Marcoulli,16,Cyprus,CY,1978,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
+Savvas Papasavvas,Savvas,Papasavvas,Papasavvas,Papasavvas,Papasavvas,16,Cyprus,CY,1969,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2004-05-01,Present,,,2004-05-01,Present,,,,
+Michal Bobek,Michal,Bobek,Bobek,Bobek,Bobek,17,Czech Republic,CZ,1977,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2015-10-07,2021-10-07,,,,,,,2015-10-07,2021-10-07
+Jiří Malenovský,Jiří,Malenovský,Malenovsky,Malenovský,Malenovsky,17,Czech Republic,CZ,1950,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2020-10-06,2004-05-01,2020-10-06,,,,,,
+Jan Passer,Jan,Passer,Passer,Passer,Passer,17,Czech Republic,CZ,1974,2,Male,0,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,2016-09-19,Present,2020-10-06,Present,2016-09-19,2020-10-06,,,,
+Irena Pelikánová,Irena,Pelikánová,Pelikanova,Pelikánová,Pelikanova,17,Czech Republic,CZ,1949,1,Female,1,0,1,0,0,0,0,0,Former GC judge,1,0,2004-05-01,2019-09-26,,,2004-05-01,2019-09-26,,,,
+David Petrlík,David,Petrlík,Petrlik,Petrlík,Petrlik,17,Czech Republic,CZ,1978,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2021-03-01,Present,,,2021-03-01,Present,,,,
+Petra Škvařilová-Pelzl,Petra,Škvařilová-Pelzl,Skvarilova-Pelzl,Škvařilová-Pelzl,Skvarilova-Pelzl,17,Czech Republic,CZ,1975,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Küllike Jürimäe,Küllike,Jürimäe,Jurimae,Jürimäe,Jurimae,18,Estonia,EE,1962,1,Female,1,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,2004-05-12,Present,2013-10-23,Present,2004-05-12,2013-10-23,,,,
+Uno Lõhmus,Uno,Lõhmus,Lohmus,Lõhmus,Lohmus,18,Estonia,EE,1952,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2013-10-06,2004-05-01,2013-10-06,,,,,,
+Lauri Madise,Lauri,Madise,Madise,Madise,Madise,18,Estonia,EE,1974,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2013-10-06,Present,,,2013-10-06,Present,,,,
+Iko Nõmm,Iko,Nõmm,Nomm,Nõmm,Nomm,18,Estonia,EE,1977,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Priit Pikamäe,Priit,Pikamäe,Pikamae,Pikamäe,Pikamae,18,Estonia,EE,1973,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2019-02-06,Present,,,,,,,2019-02-06,Present
+Barna Berke,Barna,Berke,Berke,Berke,Berke,19,Hungary,HU,1966,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2016-09-19,2021-08-01,,,2016-09-19,2021-08-01,,,,
+Zoltán Csehi,Zoltán,Csehi,Csehi,Csehi,Csehi,19,Hungary,HU,1965,2,Male,0,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,2016-04-13,Present,2021-10-07,Present,2016-04-13,2021-10-07,,,,
+Ottó Czúcz,Ottó,Czúcz,Czucz,Czúcz,Czucz,19,Hungary,HU,1946,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2004-05-01,2016-08-31,,,2004-05-01,2016-08-31,,,,
+Endre Juhász,Endre,Juhász,Juhasz,Juhász,Juhasz,19,Hungary,HU,1944,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-11,2021-10-07,2004-05-11,2021-10-07,,,,,,
+Krisztián Attila Kecsmár,Krisztián Attila,Kecsmár,Kecsmar,Kecsmár,Kecsmar,19,Hungary,HU,1975,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2021-10-27,Present,,,2021-10-27,Present,,,,
+Ingrida Labucka,Ingrida,Labucka,Labucka,Labucka,Labucka,20,Latvia,LV,1963,1,Female,1,0,1,0,0,0,0,0,Former GC judge,1,0,2004-05-01,2020-02-25,,,2004-05-01,2020-02-25,,,,
+Egils Levits,Egils,Levits,Levits,Levits,Levits,20,Latvia,LV,1955,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2019-06-17,2004-05-01,2019-06-17,,,,,,
+Laila Medina,Laila,Medina,Medina,Medina,Medina,20,Latvia,LV,1971,1,Female,1,0,0,0,1,0,0,0,Current AG,1,0,2021-10-07,Present,,,,,,,2021-10-07,Present
+Inga Reine,Inga,Reine,Reine,Reine,Reine,20,Latvia,LV,1975,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2016-06-08,Present,,,2016-06-08,Present,,,,
+Ineta Ziemele,Ineta,Ziemele,Ziemele,Ziemele,Ziemele,20,Latvia,LV,1970,1,Female,1,1,0,0,0,0,0,0,Current CJ judge,1,0,2020-10-06,Present,2020-10-06,Present,,,,,,
+Pēteris Zilgalvis,Pēteris,Zilgalvis,Zilgalvis,Zilgalvis,Zilgalvis,20,Latvia,LV,1964,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2021-09-27,Present,,,2021-09-27,Present,,,,
+Egidijus Bieliūnas,Egidijus,Bieliūnas,Bieliunas,Bieliūnas,Bieliunas,21,Lithuania,LT,1950,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2013-09-01,2019-09-26,,,2013-09-01,2019-09-26,,,,
+Egidijus Jarašiūnas,Egidijus,Jarašiūnas,Jarasiunas,Jarašiūnas,Jarasiunas,21,Lithuania,LT,1952,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2010-10-06,2018-10-08,2010-10-06,2018-10-08,,,,,,
+Irmantas Jarukaitis,Irmantas,Jarukaitis,Jarukaitis,Jarukaitis,Jarukaitis,21,Lithuania,LT,1973,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2018-10-07,Present,2018-10-07,Present,,,,,,
+Pranas Kūris,Pranas,Kūris,Kuris,Kūris,Kuris,21,Lithuania,LT,1938,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2012-10-06,2004-05-01,2012-10-06,,,,,,
+Rimvydas Norkus,Rimvydas,Norkus,Norkus,Norkus,Norkus,21,Lithuania,LT,1979,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Vilenas Vadapalas,Vilenas,Vadapalas,Vadapalas,Vadapalas,Vadapalas,21,Lithuania,LT,1954,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2004-05-01,2013-08-31,,,2004-05-01,2013-08-31,,,,
+Virgilijus Valančius,Virgilijus,Valančius,Valancius,Valančius,Valancius,21,Lithuania,LT,1963,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
+Anthony Borg Barthet,Anthony,Borg Barthet,Borg Barthet,Borg Barthet,Borg Barthet,22,Malta,MT,1947,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2018-10-08,2004-05-01,2018-10-08,,,,,,
+Eugène Buttigieg,Eugène,Buttigieg,Buttigieg,Buttigieg,Buttigieg,22,Malta,MT,1961,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2012-09-22,Present,,,2012-09-22,Present,,,,
+Ena Cremona,Ena,Cremona,Cremona,Cremona,Cremona,22,Malta,MT,1936,1,Female,1,0,1,0,0,0,0,0,Former GC judge,1,0,2004-05-01,2012-09-22,,,2004-05-01,2012-09-22,,,,
+Ramona Frendo,Ramona,Frendo,Frendo,Frendo,Frendo,22,Malta,MT,1971,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-03-20,Present,,,2019-03-20,Present,,,,
+Peter George Xuereb,Peter George,Xuereb,Xuereb,Xuereb,Xuereb,22,Malta,MT,1954,2,Male,0,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,2016-04-13,Present,2018-10-08,Present,2016-04-13,2018-10-08,,,,
+Irena Boruta,Irena,Boruta,Boruta,Boruta,Boruta,23,Poland,PL,1950,1,Female,1,0,0,1,0,0,0,0,Former CST judge,1,0,2005-10-06,2013-10-07,,,,,2005-10-06,2013-10-07,,
+Krystyna Kowalik-Bańczyk,Krystyna,Kowalik-Bańczyk,Kowalik-Banczyk,Kowalik-Bańczyk,Kowalik-Banczyk,23,Poland,PL,1976,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2016-09-01,Present,,,2016-09-01,Present,,,,
+Jerzy Makarczyk,Jerzy,Makarczyk,Makarczyk,Makarczyk,Makarczyk,23,Poland,PL,1938,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2009-10-06,2004-05-01,2009-10-06,,,,,,
+Nina Półtorak,Nina,Półtorak,Poltorak,Półtorak,Poltorak,23,Poland,PL,1971,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2016-04-13,Present,,,2016-04-13,Present,,,,
+Marek Safjan,Marek,Safjan,Safjan,Safjan,Safjan,23,Poland,PL,1949,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2009-10-07,Present,2009-10-07,Present,,,,,,
+Maciej Szpunar,Maciej,Szpunar,Szpunar,Szpunar,Szpunar,23,Poland,PL,1971,2,Male,0,0,0,0,1,0,0,0,Current AG,1,0,2013-10-23,Present,,,,,,,2013-10-23,Present
+Irena Wiszniewska-Białecka,Irena,Wiszniewska-Białecka,Wiszniewska-Bialecka,Wiszniewska-Białecka,Wiszniewska-Bialecka,23,Poland,PL,1957,1,Female,1,0,1,0,0,0,0,0,Former GC judge,1,0,2004-05-01,2016-09-19,,,2004-05-01,2016-09-19,,,,
+Miroslav Gavalec,Miroslav,Gavalec,Gavalec,Gavalec,Gavalec,24,Slovakia,SK,1961,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2021-10-07,Present,2021-10-07,Present,,,,,,
+Ján Klučka,Ján,Klučka,Klucka,Klučka,Klucka,24,Slovakia,SK,1951,2,Male,0,1,0,0,0,0,0,0,Former CJ judge,1,0,2004-05-01,2009-10-06,2004-05-01,2009-10-06,,,,,,
+Ján Mazák,Ján,Mazák,Mazak,Mazák,Mazak,24,Slovakia,SK,1954,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2006-10-07,2012-10-08,,,,,,,2006-10-07,2012-10-08
+Juraj Schwarcz,Juraj,Schwarcz,Schwarcz,Schwarcz,Schwarcz,24,Slovakia,SK,1952,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2009-10-07,Present,,,2009-10-07,Present,,,,
+Daniel Šváby,Daniel,Šváby,Svaby,Šváby,Svaby,24,Slovakia,SK,1951,2,Male,0,1,1,0,0,0,0,0,Former CJ judge; Former GC judge,2,0,2004-05-12,2021-10-07,2009-10-07,2021-10-07,2004-05-12,2009-10-06,,,,
+Maja Brkan,Maja,Brkan,Brkan,Brkan,Brkan,25,Slovenia,SI,1979,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2021-07-06,Present,,,2021-07-06,Present,,,,
+Marko Ilešič,Marko,Ilešič,Ilesic,Ilešič,Ilesic,25,Slovenia,SI,1947,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2004-05-01,Present,2004-05-01,Present,,,,,,
+Damjan Kukovec,Damjan,Kukovec,Kukovec,Kukovec,Kukovec,25,Slovenia,SI,1977,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2022-01-13,Present,,,2022-01-13,Present,,,,
+Miro Prek,Miro,Prek,Prek,Prek,Prek,25,Slovenia,SI,1956,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2006-10-06,2019-09-26,,,2006-10-06,2019-09-26,,,,
+Verica Trstenjak,Verica,Trstenjak,Trstenjak,Trstenjak,Trstenjak,25,Slovenia,SI,1962,2,Male,0,0,1,0,1,0,0,0,Former GC judge; Former AG,2,0,2004-07-01,2012-11-28,,,2004-07-01,2006-10-06,,,2006-10-07,2012-11-28
+Alexander Arabadjiev,Alexander,Arabadjiev,Arabadjiev,Arabadjiev,Arabadjiev,26,Bulgaria,BG,1949,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2007-01-01,Present,2007-01-01,Present,,,,,,
+Mariyana Kancheva,Mariyana,Kancheva,Kancheva,Kancheva,Kancheva,26,Bulgaria,BG,1958,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2011-09-12,Present,,,2011-09-12,Present,,,,
+Alexander Kornezov,Alexander,Kornezov,Kornezov,Kornezov,Kornezov,26,Bulgaria,BG,1978,2,Male,0,0,1,1,0,0,0,0,Current GC judge; Former CST judge,2,0,2016-04-13,Present,,,2016-09-01,Present,2016-04-13,2016-08-31,,
+Evgeni Tanchev,Evgeni,Tanchev,Tanchev,Tanchev,Tanchev,26,Bulgaria,BG,1952,2,Male,0,0,0,0,1,0,0,0,Former AG,1,0,2016-09-19,2021-10-07,,,,,,,2016-09-19,2021-10-07
+Teodor Tchipev,Teodor,Tchipev,Tchipev,Tchipev,Tchipev,26,Bulgaria,BG,1940,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2007-01-12,2010-06-29,,,2007-09-01,2011-09-12,,,,
+Valeriu Ciucă,Valeriu,Ciucă,Ciuca,Ciucă,Ciuca,27,Romania,RO,1960,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2007-01-01,2010-11-26,,,2007-01-01,2010-11-26,,,,
+Ion Gâlea,Ion,Gâlea,Galea,Gâlea,Galea,27,Romania,RO,1978,2,Male,0,0,1,0,0,0,0,0,Current GC judge,1,0,2021-10-27,Present,,,2021-10-27,Present,,,,
+Andrei Popescu,Andrei,Popescu,Popescu,Popescu,Popescu,27,Romania,RO,1948,2,Male,0,0,1,0,0,0,0,0,Former GC judge,1,0,2010-11-26,2016-08-31,,,2010-11-26,2016-08-31,,,,
+Octavia Spineanu-Matei,Octavia,Spineanu-Matei,Spineanu-Matei,Spineanu-Matei,Spineanu-Matei,27,Romania,RO,1967,1,Female,1,1,1,0,0,0,0,0,Current CJ judge; Former GC judge,2,0,2016-09-19,Present,2021-10-07,Present,2016-09-19,2021-10-07,,,,
+Mirela Stancu,Mirela,Stancu,Stancu,Stancu,Stancu,27,Romania,RO,1974,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-01,Present,,,2019-09-01,Present,,,,
+Camelia Toader,Camelia,Toader,Toader,Toader,Toader,27,Romania,RO,1963,1,Female,1,1,0,0,0,0,0,0,Former CJ judge,1,0,2007-01-12,2021-10-07,2007-01-12,2021-10-07,,,,,,
+Tamara Ćapeta,Tamara,Ćapeta,Capeta,Ćapeta,Capeta,28,Croatia,HR,1967,1,Female,1,0,0,0,1,0,0,0,Current AG,1,0,2021-10-07,Present,,,,,,,2021-10-07,Present
+Tamara Perišin,Tamara,Perišin,Perisin,Perišin,Perisin,28,Croatia,HR,1979,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2019-09-26,Present,,,2019-09-26,Present,,,,
+Siniša Rodin,Siniša,Rodin,Rodin,Rodin,Rodin,28,Croatia,HR,1965,2,Male,0,1,0,0,0,0,0,0,Current CJ judge,1,0,2013-07-01,Present,2013-07-01,Present,,,,,,
+Vesna Tomljenović,Vesna,Tomljenović,Tomljenovic,Tomljenović,Tomljenovic,28,Croatia,HR,1956,1,Female,1,0,1,0,0,0,0,0,Current GC judge,1,0,2013-07-01,Present,,,2013-07-01,Present,,,,
