@@ -14,7 +14,7 @@
 #' character-encoding problems), a label for each individual (for making
 #' visualizations) that differentiates between judges with the same last name,
 #' their member state, and their gender. The dataset also indicates the
-#' positions that each indvidual has held at the Court and the start date and
+#' positions that each individual has held at the Court and the start date and
 #' end date for each position.
 #' 
 #' @format A data frame with 36 variables:

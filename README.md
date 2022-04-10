@@ -4,7 +4,7 @@ An `R` package for the CJEU Judges Database. This package includes data on judge
 
 The CJEU Judges Database includes two datasets: `judges` and `judge_backgrounds`.
 
-The `judges` dataset includes data on all judges and Advocate General at the Court of Justice (1952-2021) and the General Court (1989-2021). There is one observation per judge. The dataset includes each judge's first and last name, their last name using only ASCII characters (to avoid character-encoding problems), a label for each judge (for making visualizations) that differentiates between judges with the same last name, their member state, and their gender. The dataset also indicates the positions that each judge has held at the Court and the start date and end date for each position.
+The `judges` dataset includes data on all judges, Advocate General, and registrars at the Court of Justice (1952-2022), the General Court (1989-2022), and the Civil Service Tribunal (2005-2016). There is one observation per individual who has served on the Court. The dataset includes each individual's first and last name, their last name using only ASCII characters (to avoid character-encoding problems), a label for each individual (for making visualizations) that differentiates between judges with the same last name, their member state, and their gender. The dataset also indicates the positions that each individual has held at the Court and the start date and end date for each position.
 
 The `judge_backgrounds` includes data on professional backgrounds of all judges at the Court of Justice (1953-2021) and the General Court (1989-2021). The sources of the data are the judges' official biographies, which are published online by the Court. There is one observation per biographical item per judge. The dataset indicates whether each item relates to the judge's education, the judge's prior professional experience, or some other category of biographical information (such as membership in a professional society or professional accomplishments). For items related to a judge's professional experience, the dataset indicates whether the judge was a judge (at a different court), a lawyer, a civil servant, an academic, or a politician. For items related to prior experience as a judge, the dataset indicates whether the court was a lower court, a high court, the CJEU, or another international court.
 
@@ -25,7 +25,7 @@ The codebook for the database is included as a `tibble` in the `R` package: `cje
 
 If you use data from the `cjeujudges` package in a project or paper, please cite the `R` package:
 
-> Joshua Fjelstul (2022). cjeujudges: The CJEU Judges Database. R package version 0.1.1.
+> Joshua Fjelstul (2022). cjeujudges: The CJEU Judges Database. R package version 0.1.2.
 
 The `BibTeX` entry for the package is:
 
@@ -34,7 +34,7 @@ The `BibTeX` entry for the package is:
   title = {cjeujudges: The CJEU Judges Database},
   author = {Joshua Fjelstul},
   year = {2021},
-  note = {R package version 0.1.1},
+  note = {R package version 0.1.2},
 }
 ```
 
