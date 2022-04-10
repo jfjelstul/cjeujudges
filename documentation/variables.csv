@@ -1,37 +1,40 @@
 dataset_id,dataset,variable_id,variable,type,description
 1,judges,1,key_id,numeric,An ID number that uniquely identifies each observation. Indicates the default sort order for the dataset.
-1,judges,2,iuropa_judge_id,string,"An ID number that uniquely identifies each judge in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. "
-1,judges,3,full_name,string,The full name of the judge. 
-1,judges,4,first_name,string,The first name of the judge. 
-1,judges,5,last_name,string,The last name of the judge.
-1,judges,6,last_name_latin,string,The last name of the judge using only basic Latin characters (to avoid character-encoding problems).
-1,judges,7,last_name_label,string,A label (for making visualizations) that differentiates between judges with the same last name by adding the judge's first initial.
-1,judges,8,last_name_latin_label,string,A label (for making visualizations) using only basic Latin characters (to avoid character-encoding problems) that differentiates between judges with the same last name by adding the judge's first initial.
-1,judges,9,member_state_id,numeric,An ID number that uniquely identifies each judge's member state. The number is assigned with member states sorted by date of accession and then alphabetically by name. 
-1,judges,10,member_state,string,The name of the judge's member state. 
-1,judges,11,member_state_code,string,A two-character code for the judge's member state assigned by the Commission.
-1,judges,12,birth_year,numeric,The year the judge was born.
-1,judges,13,gender_id,string,An ID variable indicating the gender of the judge. Coded 1 if the judge is female and 2 if the judge is male. 
-1,judges,14,gender,string,The gender of the judge. Either {Male} or {Female}.
-1,judges,15,female,string,A dummy variable indicating whether the judge is female. Coded 1 if the judge is female and 0 if the judge is male. 
-1,judges,16,judge_court_of_justice,dummy,A dummy variable indicating whether the judge served as a judge at the Court of Justice. Coded 1 if the judge was a judge at the Court of Justice and 0 otherwise.
-1,judges,17,judge_general_court,dummy,A dummy variable indicating whether the judge served as a judge at the General Court. Coded 1 if the judge was a judge at the General Court and 0 otherwise.
-1,judges,18,judge_civil_service_tribunal,dummy,A dummy variable indicating whether the judge served as a judge at the Civil Service Tribunal. Coded 1 if the judge was a judge at the Civil Service Tribunal and 0 otherwise.
-1,judges,19,advocate_general,dummy,A dummy variable indicating whether the judge served as an Advocate General at the Court of Justice. Coded 1 if the judge was an Advocate General at the Court of Justice and 0 otherwise.
-1,judges,20,current_status,string,"A description that indicates the current status of the judge on the Court (e.g., current CJ judge, former GC judge). "
-1,judges,21,current_member,dummy,A dummy variable indicating whether the judge is currently a member of the Court.
-1,judges,22,count_positions,numeric,"The number of positions that the judge has held at the Court. Possible positions include judge at the Court of Justice, General Court, or Civil Service Tribunal and Advocate General at the Court of Justice. "
-1,judges,23,nonconsecutive_positions,dummy,A dummy variable indicating whether the judge served non-consecutive terms in the same position. 
-1,judges,24,start_date,date,The start date of the judge's first position at the Court.
-1,judges,25,end_date,date,The end date of the judge's last position at the Court.
-1,judges,26,start_date_court_of_justice,date,"The start date of the judge's tenure as a judge at the Court of Justice, if applicable. Coded {NA} if not applicable. "
-1,judges,27,end_date_court_of_justice,date,"The end date of the judge's tenure as a judge at the Court of Justice, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
-1,judges,28,start_date_general_court,date,"The start date of the judge's tenure as a judge at the General Court, if applicable. Coded {NA} if not applicable. "
-1,judges,29,end_date_general_court,date,"The end date of the judge's tenure as a judge at the General Court, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
-1,judges,30,start_date_civil_service_tribunal,date,"The start date of the judge's tenure as a judge at the Civil Service Tribunal, if applicable. Coded {NA} if not applicable. "
-1,judges,31,end_date_civil_service_tribunal,date,"The end date of the judge's tenure as a judge at the Civil Service Tribunal, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
-1,judges,32,start_date_advocate_general,date,"The start date of the judge's tenure as an Advocate General at the Court of Justice, if applicable. Coded {NA} if not applicable. "
-1,judges,33,end_date_advocate_general,date,"The end date of the judge's tenure as an Advocate General at the Court of Justice, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
+1,judges,2,iuropa_judge_id,string,"An ID number that uniquely identifies each individual in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the individual within their member state. The number is assigned with the individuals sorted chronologically by date of appointment and then alphabetically by last name. "
+1,judges,3,full_name,string,The full name of the individual. 
+1,judges,4,first_name,string,The first name of the individual. 
+1,judges,5,last_name,string,The last name of the individual.
+1,judges,6,last_name_latin,string,The last name of the individual using only basic Latin characters (to avoid character-encoding problems).
+1,judges,7,last_name_label,string,A label (for making visualizations) that differentiates between individual with the same last name by adding the individual's first initial.
+1,judges,8,last_name_latin_label,string,A label (for making visualizations) using only basic Latin characters (to avoid character-encoding problems) that differentiates between individual with the same last name by adding the individual's first initial.
+1,judges,9,member_state_id,numeric,An ID number that uniquely identifies each individual's member state. The number is assigned with member states sorted by date of accession and then alphabetically by last name. 
+1,judges,10,member_state,string,The name of the individual's member state. 
+1,judges,11,member_state_code,string,A two-character code for the individual's member state assigned by the Commission.
+1,judges,12,birth_year,numeric,The year the individual was born.
+1,judges,13,gender_id,string,An ID variable indicating the gender of the individual. Coded 1 if the judge is female and 2 if the individual is male. 
+1,judges,14,gender,string,The gender of the individual. Either {Male} or {Female}.
+1,judges,15,female,string,A dummy variable indicating whether the individual is female. Coded 1 if the individual is female and 0 if the individual is male. 
+1,judges,16,judge_court_of_justice,dummy,A dummy variable indicating whether the individual served as a judge at the Court of Justice. Coded 1 if the judge was a individual at the Court of Justice and 0 otherwise.
+1,judges,17,judge_general_court,dummy,A dummy variable indicating whether the individual served as a judge at the General Court. Coded 1 if the judge was a individual at the General Court and 0 otherwise.
+1,judges,18,judge_civil_service_tribunal,dummy,A dummy variable indicating whether the individual served as a judge at the Civil Service Tribunal. Coded 1 if the individual was a judge at the Civil Service Tribunal and 0 otherwise.
+1,judges,19,advocate_general,dummy,A dummy variable indicating whether the individual served as an Advocate General at the Court of Justice. Coded 1 if the individual was an Advocate General at the Court of Justice and 0 otherwise.
+1,judges,20,registrar_court_of_justice,dummy,A dummy variable indicating whether the individual served as the registrar at the Court of Justice. Coded 1 if the individual was the registrar at the Court of Justice and 0 otherwise.
+1,judges,21,registrar_general_court,dummy,A dummy variable indicating whether the individual served as the registrar at the General Court. Coded 1 if the individual was the registrar at the General Court and 0 otherwise.
+1,judges,22,registrar_civil_service_tribunal,dummy,A dummy variable indicating whether the individual served as the registrar at the Civil Service Tribunal. Coded 1 if the individual was the registrar at the Civil Service Tribunal and 0 otherwise.
+1,judges,23,current_status,string,"A description that indicates the current status of the judge on the Court (e.g., current CJ judge, former GC judge). "
+1,judges,24,current_member,dummy,A dummy variable indicating whether the judge is currently a member of the Court.
+1,judges,25,count_positions,numeric,"The number of positions that the individual has held at the Court. Possible positions include judge or registrar at the Court of Justice, General Court, or Civil Service Tribunal, and Advocate General at the Court of Justice. "
+1,judges,26,nonconsecutive_positions,dummy,A dummy variable indicating whether the individual served non-consecutive terms in the same position. 
+1,judges,27,start_date,date,The start date of the individual's first position at the Court.
+1,judges,28,end_date,date,The end date of the individual's last position at the Court.
+1,judges,29,start_date_judge_court_of_justice,date,"The start date of the individual's tenure as a judge at the Court of Justice, if applicable. Coded {NA} if not applicable. "
+1,judges,30,end_date_judge_court_of_justice,date,"The end date of the individual's tenure as a judge at the Court of Justice, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
+1,judges,31,start_date_judge_general_court,date,"The start date of the individual's tenure as a judge at the General Court, if applicable. Coded {NA} if not applicable. "
+1,judges,32,end_date_judge_general_court,date,"The end date of the individual's tenure as a judge at the General Court, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
+1,judges,33,start_date_judge_civil_service_tribunal,date,"The start date of the individual's tenure as a judge at the Civil Service Tribunal, if applicable. Coded {NA} if not applicable. "
+1,judges,34,end_date_judge_civil_service_tribunal,date,"The end date of the individual's tenure as a judge at the Civil Service Tribunal, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
+1,judges,35,start_date_advocate_general,date,"The start date of the individual's tenure as an Advocate General at the Court of Justice, if applicable. Coded {NA} if not applicable. "
+1,judges,36,end_date_advocate_general,date,"The end date of the individual's tenure as an Advocate General at the Court of Justice, if applicable. Coded {NA} if not applicable. If a judge served non-consecutive terms, this is the end date of the last term. "
 2,judge_backgrounds,1,key_id,numeric,An ID number that uniquely identifies each observation. Indicates the default sort order for the dataset.
 2,judge_backgrounds,2,iuropa_judge_id,string,"An ID number that uniquely identifies each judge in the format {J:####}. The first two digits are the member state ID, with a leading 0 if necessary. The second two digits uniquely identify the judge within the member state. The number is assigned with the judges sorted chronologically by date of appointment and then alphabetically by last name. "
 2,judge_backgrounds,3,item_id,string,"An ID number that uniquely identifies each biography item in the format {J:####:##}. This number is the judge ID followed by the number of the item, with a leading 0 if necessary."

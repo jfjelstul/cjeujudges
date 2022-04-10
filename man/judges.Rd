@@ -5,111 +5,129 @@
 \alias{judges}
 \title{Data on CJEU judges}
 \format{
-A data frame with 33 variables:
+A data frame with 36 variables:
 \describe{
 \item{key_id}{\code{numeric}. An ID number that uniquely identifies each
 observation. Indicates the default sort order for the dataset.}
-\item{judge_id}{\code{string}. An ID number that uniquely identifies each
-judge in the format \code{J:####}. The first two digits are the member
-state ID, with a leading 0 if necessary. The second two digits uniquely
-identify the judge within the member state. The number is assigned with the
-judges sorted chronologically by date of appointment and then
-alphabetically by last name. }
-\item{full_name}{\code{string}. The full name of the judge. }
-\item{first_name}{\code{string}. The first name of the judge. }
-\item{last_name}{\code{string}. The last name of the judge.}
-\item{last_name_latin}{\code{string}. The last name of the judge using only
-basic Latin characters (to avoid character-encoding problems).}
+\item{iuropa_judge_id}{\code{string}. An ID number that uniquely identifies
+each individual in the format \code{J:####}. The first two digits are the
+member state ID, with a leading 0 if necessary. The second two digits
+uniquely identify the individual within their member state. The number is
+assigned with the individuals sorted chronologically by date of appointment
+and then alphabetically by last name. }
+\item{full_name}{\code{string}. The full name of the individual. }
+\item{first_name}{\code{string}. The first name of the individual. }
+\item{last_name}{\code{string}. The last name of the individual.}
+\item{last_name_latin}{\code{string}. The last name of the individual using
+only basic Latin characters (to avoid character-encoding problems).}
 \item{last_name_label}{\code{string}. A label (for making visualizations)
-that differentiates between judges with the same last name by adding the
-judge's first initial.}
+that differentiates between individual with the same last name by adding
+the individual's first initial.}
 \item{last_name_latin_label}{\code{string}. A label (for making
 visualizations) using only basic Latin characters (to avoid
-character-encoding problems) that differentiates between judges with the
-same last name by adding the judge's first initial.}
+character-encoding problems) that differentiates between individual with
+the same last name by adding the individual's first initial.}
 \item{member_state_id}{\code{numeric}. An ID number that uniquely
-identifies each judge's member state. The number is assigned with member
-states sorted by date of accession and then alphabetically by name. }
-\item{member_state}{\code{string}. The name of the judge's member state. }
+identifies each individual's member state. The number is assigned with
+member states sorted by date of accession and then alphabetically by last
+name. }
+\item{member_state}{\code{string}. The name of the individual's member
+state. }
 \item{member_state_code}{\code{string}. A two-character code for the
-judge's member state assigned by the Commission.}
-\item{birth_year}{\code{numeric}. The year the judge was born.}
+individual's member state assigned by the Commission.}
+\item{birth_year}{\code{numeric}. The year the individual was born.}
 \item{gender_id}{\code{string}. An ID variable indicating the gender of the
-judge. Coded 1 if the judge is female and 2 if the judge is male. }
-\item{gender}{\code{string}. The gender of the judge. Either \code{Male} or
-\code{Female}.}
-\item{female}{\code{string}. A dummy variable indicating whether the judge
-is female. Coded 1 if the judge is female and 0 if the judge is male. }
+individual. Coded 1 if the judge is female and 2 if the individual is male.
+}
+\item{gender}{\code{string}. The gender of the individual. Either
+\code{Male} or \code{Female}.}
+\item{female}{\code{string}. A dummy variable indicating whether the
+individual is female. Coded 1 if the individual is female and 0 if the
+individual is male. }
 \item{judge_court_of_justice}{\code{dummy}. A dummy variable indicating
-whether the judge served as a judge at the Court of Justice. Coded 1 if the
-judge was a judge at the Court of Justice and 0 otherwise.}
+whether the individual served as a judge at the Court of Justice. Coded 1
+if the judge was a individual at the Court of Justice and 0 otherwise.}
 \item{judge_general_court}{\code{dummy}. A dummy variable indicating
-whether the judge served as a judge at the General Court. Coded 1 if the
-judge was a judge at the General Court and 0 otherwise.}
+whether the individual served as a judge at the General Court. Coded 1 if
+the judge was a individual at the General Court and 0 otherwise.}
 \item{judge_civil_service_tribunal}{\code{dummy}. A dummy variable
-indicating whether the judge served as a judge at the Civil Service
-Tribunal. Coded 1 if the judge was a judge at the Civil Service Tribunal
-and 0 otherwise.}
+indicating whether the individual served as a judge at the Civil Service
+Tribunal. Coded 1 if the individual was a judge at the Civil Service
+Tribunal and 0 otherwise.}
 \item{advocate_general}{\code{dummy}. A dummy variable indicating whether
-the judge served as an Advocate General at the Court of Justice. Coded 1 if
-the judge was an Advocate General at the Court of Justice and 0 otherwise.}
+the individual served as an Advocate General at the Court of Justice. Coded
+1 if the individual was an Advocate General at the Court of Justice and 0
+otherwise.}
+\item{registrar_court_of_justice}{\code{dummy}. A dummy variable indicating
+whether the individual served as the registrar at the Court of Justice.
+Coded 1 if the individual was the registrar at the Court of Justice and 0
+otherwise.}
+\item{registrar_general_court}{\code{dummy}. A dummy variable indicating
+whether the individual served as the registrar at the General Court. Coded
+1 if the individual was the registrar at the General Court and 0
+otherwise.}
+\item{registrar_civil_service_tribunal}{\code{dummy}. A dummy variable
+indicating whether the individual served as the registrar at the Civil
+Service Tribunal. Coded 1 if the individual was the registrar at the Civil
+Service Tribunal and 0 otherwise.}
 \item{current_status}{\code{string}. A description that indicates the
 current status of the judge on the Court (e.g., current CJ judge, former GC
 judge). }
 \item{current_member}{\code{dummy}. A dummy variable indicating whether the
 judge is currently a member of the Court.}
 \item{count_positions}{\code{numeric}. The number of positions that the
-judge has held at the Court. Possible positions include judge at the Court
-of Justice, General Court, or Civil Service Tribunal and Advocate General
-at the Court of Justice. }
+individual has held at the Court. Possible positions include judge or
+registrar at the Court of Justice, General Court, or Civil Service
+Tribunal, and Advocate General at the Court of Justice. }
 \item{nonconsecutive_positions}{\code{dummy}. A dummy variable indicating
-whether the judge served non-consecutive terms in the same position. }
-\item{start_date}{\code{date}. The start date of the judge's first position
+whether the individual served non-consecutive terms in the same position. }
+\item{start_date}{\code{date}. The start date of the individual's first
+position at the Court.}
+\item{end_date}{\code{date}. The end date of the individual's last position
 at the Court.}
-\item{end_date}{\code{date}. The end date of the judge's last position at
-the Court.}
-\item{start_date_court_of_justice}{\code{date}. The start date of the
-judge's tenure as a judge at the Court of Justice, if applicable. Coded
-\code{NA} if not applicable. }
-\item{end_date_court_of_justice}{\code{date}. The end date of the judge's
-tenure as a judge at the Court of Justice, if applicable. Coded \code{NA}
-if not applicable. If a judge served non-consecutive terms, this is the end
-date of the last term. }
-\item{start_date_general_court}{\code{date}. The start date of the judge's
-tenure as a judge at the General Court, if applicable. Coded \code{NA} if
-not applicable. }
-\item{end_date_general_court}{\code{date}. The end date of the judge's
-tenure as a judge at the General Court, if applicable. Coded \code{NA} if
-not applicable. If a judge served non-consecutive terms, this is the end
-date of the last term. }
-\item{start_date_civil_service_tribunal}{\code{date}. The start date of the
-judge's tenure as a judge at the Civil Service Tribunal, if applicable.
+\item{start_date_judge_court_of_justice}{\code{date}. The start date of the
+individual's tenure as a judge at the Court of Justice, if applicable.
 Coded \code{NA} if not applicable. }
-\item{end_date_civil_service_tribunal}{\code{date}. The end date of the
-judge's tenure as a judge at the Civil Service Tribunal, if applicable.
+\item{end_date_judge_court_of_justice}{\code{date}. The end date of the
+individual's tenure as a judge at the Court of Justice, if applicable.
 Coded \code{NA} if not applicable. If a judge served non-consecutive terms,
 this is the end date of the last term. }
-\item{start_date_advocate_general}{\code{date}. The start date of the
-judge's tenure as an Advocate General at the Court of Justice, if
-applicable. Coded \code{NA} if not applicable. }
-\item{end_date_advocate_general}{\code{date}. The end date of the judge's
-tenure as an Advocate General at the Court of Justice, if applicable. Coded
+\item{start_date_judge_general_court}{\code{date}. The start date of the
+individual's tenure as a judge at the General Court, if applicable. Coded
+\code{NA} if not applicable. }
+\item{end_date_judge_general_court}{\code{date}. The end date of the
+individual's tenure as a judge at the General Court, if applicable. Coded
 \code{NA} if not applicable. If a judge served non-consecutive terms, this
 is the end date of the last term. }
+\item{start_date_judge_civil_service_tribunal}{\code{date}. The start date
+of the individual's tenure as a judge at the Civil Service Tribunal, if
+applicable. Coded \code{NA} if not applicable. }
+\item{end_date_judge_civil_service_tribunal}{\code{date}. The end date of
+the individual's tenure as a judge at the Civil Service Tribunal, if
+applicable. Coded \code{NA} if not applicable. If a judge served
+non-consecutive terms, this is the end date of the last term. }
+\item{start_date_advocate_general}{\code{date}. The start date of the
+individual's tenure as an Advocate General at the Court of Justice, if
+applicable. Coded \code{NA} if not applicable. }
+\item{end_date_advocate_general}{\code{date}. The end date of the
+individual's tenure as an Advocate General at the Court of Justice, if
+applicable. Coded \code{NA} if not applicable. If a judge served
+non-consecutive terms, this is the end date of the last term. }
 }
 }
 \usage{
 judges
 }
 \description{
-This dataset includes data on all judges and Advocate General at the Court
-of Justice (1952-2021) and the General Court (1989-2021). There is one
-observation per judge. The dataset includes each judge's first and last
-name, their last name using only ASCII characters (to avoid
-character-encoding problems), a label for each judge (for making
+This dataset includes data on all judges, Advocate General, and registrars
+at the Court of Justice (1952-2022), the General Court (1989-2022), and the
+Civil Service Tribunal (2005-2016). There is one observation per individual
+who has served on the Court. The dataset includes each individual's first
+and last name, their last name using only ASCII characters (to avoid
+character-encoding problems), a label for each individual (for making
 visualizations) that differentiates between judges with the same last name,
 their member state, and their gender. The dataset also indicates the
-positions that each judge has held at the Court and the start date and end
-date for each position.
+positions that each indvidual has held at the Court and the start date and
+end date for each position.
 }
 \keyword{datasets}

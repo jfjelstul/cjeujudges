@@ -9,8 +9,8 @@ A data frame with 23 variables:
 \describe{
 \item{key_id}{\code{numeric}. An ID number that uniquely identifies each
 observation. Indicates the default sort order for the dataset.}
-\item{judge_id}{\code{string}. An ID number that uniquely identifies each
-judge in the format \code{J:####}. The first two digits are the member
+\item{iuropa_judge_id}{\code{string}. An ID number that uniquely identifies
+each judge in the format \code{J:####}. The first two digits are the member
 state ID, with a leading 0 if necessary. The second two digits uniquely
 identify the judge within the member state. The number is assigned with the
 judges sorted chronologically by date of appointment and then
@@ -34,41 +34,41 @@ biography.}
 \item{item_text}{\code{string}. The text of the bibliography item.}
 \item{type_education}{\code{dummy}. A dummy variable indicating whether the
 item relates to the judge's education.}
-\item{type_job}{\code{dummy }. A dummy variable indicating whether the item
+\item{type_job}{\code{dummy}. A dummy variable indicating whether the item
 relates to the judge's prior professional experience.}
 \item{type_other}{\code{dummy}. A dummy variable indicating whether the
 item relates to some other biographical information, such as membership in
 a professional organization or a professional accomplishment. }
-\item{job_judge}{\code{dummy }. A dummy variable indicating whether the
-item says that the judge has prior experience as a lawyer. Coded \code{0}
-if \code{type_job} is not coded \code{1}.}
-\item{job_lawyer}{\code{dummy }. A dummy variable indicating whether the
+\item{job_judge}{\code{dummy}. A dummy variable indicating whether the item
+says that the judge has prior experience as a lawyer. Coded \code{0} if
+\code{type_job} is not coded \code{1}.}
+\item{job_lawyer}{\code{dummy}. A dummy variable indicating whether the
 item says that the judge has prior experience as a judge. Coded \code{0} if
 \code{type_job} is not coded \code{1}.}
-\item{job_civil_servant}{\code{dummy }. A dummy variable indicating whether
+\item{job_civil_servant}{\code{dummy}. A dummy variable indicating whether
 the item says that the judge has prior experience as a civil servant. Coded
 \code{0} if \code{type_job} is not coded \code{1}.}
-\item{job_academic}{\code{dummy }. A dummy variable indicating whether the
+\item{job_academic}{\code{dummy}. A dummy variable indicating whether the
 item says that the judge has prior experience as an academic. Coded
 \code{0} if \code{type_job} is not coded \code{1}.}
-\item{job_politician}{\code{dummy }. A dummy variable indicating whether
-the item says that the judge has prior experience as a politician. Coded
+\item{job_politician}{\code{dummy}. A dummy variable indicating whether the
+item says that the judge has prior experience as a politician. Coded
 \code{0} if \code{type_job} is not coded \code{1}.}
-\item{court_lower}{\code{dummy }. A dummy variable indicating whether the
+\item{court_lower}{\code{dummy}. A dummy variable indicating whether the
 item says that the judge has prior experience as a judge at a lower court.
 Coded \code{0} if \code{job_judge} is not coded \code{1}.}
-\item{court_high}{\code{dummy }. A dummy variable indicating whether the
+\item{court_high}{\code{dummy}. A dummy variable indicating whether the
 item says that the judge has prior experience as a judge at a high court.
 Coded \code{0} if \code{job_judge} is not coded \code{1}.}
-\item{court_cjeu}{\code{dummy }. A dummy variable indicating whether the
+\item{court_cjeu}{\code{dummy}. A dummy variable indicating whether the
 item says that the judge has prior experience as a judge or an Advocate
 General at the CJEU. Coded \code{0} if \code{job_judge} is not coded
 \code{1}.}
-\item{court_international}{\code{dummy }. A dummy variable indicating
+\item{court_international}{\code{dummy}. A dummy variable indicating
 whether the item says that the judge has prior experience as a judge at an
 international court (excluding the CJEU). Coded \code{0} if
 \code{job_judge} is not coded \code{1}.}
-\item{common_law_university}{\code{dummy }. A dummy variable indicating
+\item{common_law_university}{\code{dummy}. A dummy variable indicating
 whether the item mentions a common law university.}
 }
 }
