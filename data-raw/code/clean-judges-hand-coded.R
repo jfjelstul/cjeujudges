@@ -1,7 +1,6 @@
-################################################################################
 # Joshua C. Fjelstul, Ph.D.
+# IUROPA CJEU Database Platform
 # cjeujudges R package
-################################################################################
 
 # libraries
 library(tidyverse)
@@ -65,7 +64,3 @@ judge_backgrounds <- select(
 write.csv(judge_backgrounds, "build/csv/judge_backgrounds.csv", row.names = FALSE)
 save(judge_backgrounds, file = "build/rdata/judge_backgrounds.RData")
 save(judge_backgrounds, file = "data/judge_backgrounds.RData")
-
-################################################################################
-# end R script
-################################################################################

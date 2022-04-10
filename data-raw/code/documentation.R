@@ -1,30 +1,29 @@
-################################################################################
 # Joshua C. Fjelstul, Ph.D.
+# IUROPA CJEU Database Platform
 # cjeujudges R package
-################################################################################
 
 # libraries
 library(codebookr)
 
-# read in data
+# prepare codebook data --------------------------------------------------------
+
+# load data
 load("data/judges.RData")
 load("data/judge_backgrounds.RData")
 
-##################################################
-# documentation
-##################################################
-
-# read in data
+# load codebook data
 datasets <- read.csv("documentation/datasets.csv", stringsAsFactors = FALSE)
 variables <- read.csv("documentation/variables.csv", stringsAsFactors = FALSE)
 
-# save data
+# save codebook data
 save(datasets, file = "data/datasets.RData")
 save(variables, file = "data/variables.RData")
 
-# documentation
+# load codeboook data again
 load("data/variables.RData")
 load("data/datasets.RData")
+
+# make package documentation  --------------------------------------------------
 
 # document data
 codebookr::document_data(
@@ -36,9 +35,7 @@ codebookr::document_data(
   package = "cjeujudges"
 )
 
-##################################################
-# codebook
-##################################################
+# make codebook ----------------------------------------------------------------
 
 # create a codebook
 codebookr::create_codebook(
@@ -56,7 +53,3 @@ codebookr::create_codebook(
   table_of_contents = TRUE,
   include_variable_type = TRUE
 )
-
-################################################################################
-# end R script
-################################################################################
