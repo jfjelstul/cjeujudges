@@ -4,8 +4,9 @@
 .Ruserdata
 .DS_Store
 cjeujudges.Rproj
-_source
-_excluded
+_archive/
+_source/
+_excluded/
 *.aux
 *.log
 *.out
