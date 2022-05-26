@@ -18,7 +18,7 @@ judge_backgrounds <- select(
   first_name, last_name, member_state, item_text,
   type_education, type_job, type_other,
   job_lawyer, job_academic, job_politician, job_judge, job_civil_servant,
-  court_lower, court_high, court_cjeu, court_international,
+  court_lower, court_high, court_eu, court_international,
   common_law_university
 )
 
@@ -56,7 +56,7 @@ judge_backgrounds <- select(
   item_number, item_text,
   type_education, type_job, type_other,
   job_judge, job_lawyer, job_civil_servant, job_academic, job_politician,
-  court_lower, court_high, court_cjeu, court_international,
+  court_lower, court_high, court_eu, court_international,
   common_law_university
 )
 
